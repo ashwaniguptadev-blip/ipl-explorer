@@ -1,0 +1,14 @@
+delhi daredevils,Delhi Capitals
+kings xi punjab,Punjab Kings
+royal challengers bangalore,Royal Challengers Bengaluru
+rising pune supergiants,Rising Pune Supergiant
+csk,Chennai Super Kings
+mi,Mumbai Indians
+rcb,Royal Challengers Bengaluru
+kkr,Kolkata Knight Riders
+srh,Sunrisers Hyderabad
+rr,Rajasthan Royals
+dc,Delhi Capitals
+pbks,Punjab Kings
+gt,Gujarat Titans
+lsg,Lucknow Super Giants

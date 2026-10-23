@@ -1,0 +1,2419 @@
+match_id,season_year,innings,batting_team,runs,wickets,legal_balls
+335982,2008,1,Kolkata Knight Riders,222,3,120
+335982,2008,2,Royal Challengers Bengaluru,82,10,91
+335983,2008,1,Chennai Super Kings,240,5,120
+335983,2008,2,Punjab Kings,207,4,120
+335984,2008,1,Rajasthan Royals,129,8,120
+335984,2008,2,Delhi Capitals,132,1,91
+335985,2008,1,Mumbai Indians,165,7,120
+335985,2008,2,Royal Challengers Bengaluru,166,5,118
+335986,2008,1,Deccan Chargers,110,10,112
+335986,2008,2,Kolkata Knight Riders,112,5,114
+335987,2008,1,Punjab Kings,166,8,119
+335987,2008,2,Rajasthan Royals,168,4,109
+335988,2008,1,Deccan Chargers,142,8,120
+335988,2008,2,Delhi Capitals,143,1,78
+335989,2008,1,Chennai Super Kings,208,5,120
+335989,2008,2,Mumbai Indians,202,7,120
+335990,2008,1,Deccan Chargers,214,5,120
+335990,2008,2,Rajasthan Royals,217,7,119
+335991,2008,1,Punjab Kings,182,10,120
+335991,2008,2,Mumbai Indians,116,9,120
+335992,2008,1,Royal Challengers Bengaluru,135,8,120
+335992,2008,2,Rajasthan Royals,138,3,103
+335993,2008,1,Kolkata Knight Riders,147,9,120
+335993,2008,2,Chennai Super Kings,152,1,102
+335994,2008,1,Mumbai Indians,154,7,120
+335994,2008,2,Deccan Chargers,155,0,73
+335995,2008,1,Delhi Capitals,158,8,120
+335995,2008,2,Punjab Kings,162,6,117
+335996,2008,1,Chennai Super Kings,178,5,120
+335996,2008,2,Royal Challengers Bengaluru,165,10,118
+335997,2008,1,Kolkata Knight Riders,137,8,120
+335997,2008,2,Mumbai Indians,138,3,112
+335998,2008,1,Delhi Capitals,191,5,120
+335998,2008,2,Royal Challengers Bengaluru,181,5,120
+335999,2008,1,Deccan Chargers,164,8,120
+335999,2008,2,Punjab Kings,167,3,113
+336000,2008,1,Rajasthan Royals,196,7,120
+336000,2008,2,Kolkata Knight Riders,151,10,115
+336001,2008,1,Chennai Super Kings,169,6,120
+336001,2008,2,Delhi Capitals,172,2,114
+336002,2008,1,Deccan Chargers,165,10,120
+336002,2008,2,Royal Challengers Bengaluru,171,5,114
+336003,2008,1,Punjab Kings,178,6,120
+336003,2008,2,Kolkata Knight Riders,169,6,120
+336004,2008,1,Mumbai Indians,162,8,120
+336004,2008,2,Delhi Capitals,133,10,113
+336005,2008,1,Chennai Super Kings,109,10,114
+336005,2008,2,Rajasthan Royals,110,2,86
+336006,2008,1,Royal Challengers Bengaluru,126,10,116
+336006,2008,2,Punjab Kings,127,4,110
+336007,2008,1,Chennai Super Kings,144,7,120
+336007,2008,2,Deccan Chargers,148,3,108
+336008,2008,1,Rajasthan Royals,103,10,98
+336008,2008,2,Mumbai Indians,104,3,91
+336009,2008,1,Delhi Capitals,187,5,120
+336009,2008,2,Chennai Super Kings,188,6,120
+336010,2008,1,Kolkata Knight Riders,129,7,96
+336010,2008,2,Royal Challengers Bengaluru,124,4,96
+336011,2008,1,Deccan Chargers,140,8,120
+336011,2008,2,Rajasthan Royals,141,2,96
+336012,2008,1,Royal Challengers Bengaluru,122,9,108
+336012,2008,2,Mumbai Indians,126,1,96
+336013,2008,1,Chennai Super Kings,181,4,120
+336013,2008,2,Punjab Kings,163,9,120
+336014,2008,1,Kolkata Knight Riders,204,4,120
+336014,2008,2,Deccan Chargers,181,7,120
+336015,2008,1,Delhi Capitals,156,7,120
+336015,2008,2,Rajasthan Royals,159,7,114
+336016,2008,1,Royal Challengers Bengaluru,143,8,120
+336016,2008,2,Punjab Kings,144,1,94
+336017,2008,1,Kolkata Knight Riders,133,6,120
+336017,2008,2,Delhi Capitals,110,10,107
+336018,2008,1,Chennai Super Kings,156,6,120
+336018,2008,2,Mumbai Indians,158,1,83
+336019,2008,1,Punjab Kings,221,3,120
+336019,2008,2,Rajasthan Royals,180,7,120
+336020,2008,1,Delhi Capitals,194,4,120
+336020,2008,2,Deccan Chargers,182,9,120
+336021,2008,1,Kolkata Knight Riders,67,10,92
+336021,2008,2,Mumbai Indians,68,2,33
+336022,2008,1,Delhi Capitals,118,4,66
+336022,2008,2,Punjab Kings,94,3,48
+336023,2008,1,Rajasthan Royals,197,1,120
+336023,2008,2,Royal Challengers Bengaluru,132,9,120
+336024,2008,1,Mumbai Indians,178,7,120
+336024,2008,2,Deccan Chargers,153,7,120
+336025,2008,1,Kolkata Knight Riders,149,5,120
+336025,2008,2,Chennai Super Kings,55,0,48
+336026,2008,1,Royal Challengers Bengaluru,154,7,120
+336026,2008,2,Delhi Capitals,158,5,110
+336027,2008,1,Kolkata Knight Riders,147,8,120
+336027,2008,2,Rajasthan Royals,150,4,99
+336028,2008,1,Punjab Kings,189,4,120
+336028,2008,2,Mumbai Indians,188,10,120
+336029,2008,1,Royal Challengers Bengaluru,126,8,120
+336029,2008,2,Chennai Super Kings,112,8,120
+336031,2008,1,Deccan Chargers,175,4,120
+336031,2008,2,Punjab Kings,178,4,117
+336032,2008,1,Mumbai Indians,176,8,120
+336032,2008,2,Delhi Capitals,179,5,119
+336033,2008,1,Rajasthan Royals,211,5,120
+336033,2008,2,Chennai Super Kings,201,7,120
+336034,2008,1,Royal Challengers Bengaluru,156,8,120
+336034,2008,2,Deccan Chargers,153,6,120
+336035,2008,1,Punjab Kings,174,6,120
+336035,2008,2,Kolkata Knight Riders,175,7,118
+336036,2008,1,Mumbai Indians,145,7,120
+336036,2008,2,Rajasthan Royals,146,5,120
+336037,2008,1,Deccan Chargers,147,8,120
+336037,2008,2,Chennai Super Kings,148,3,116
+336038,2008,1,Rajasthan Royals,192,9,120
+336038,2008,2,Delhi Capitals,87,10,97
+336039,2008,1,Punjab Kings,112,8,120
+336039,2008,2,Chennai Super Kings,116,1,89
+336040,2008,1,Chennai Super Kings,163,5,120
+336040,2008,2,Rajasthan Royals,164,7,120
+392181,2009,1,Mumbai Indians,165,7,120
+392181,2009,2,Chennai Super Kings,146,7,120
+392182,2009,1,Royal Challengers Bengaluru,133,8,120
+392182,2009,2,Rajasthan Royals,58,10,91
+392183,2009,1,Punjab Kings,104,7,72
+392183,2009,2,Delhi Capitals,58,0,29
+392184,2009,1,Kolkata Knight Riders,101,10,118
+392184,2009,2,Deccan Chargers,104,2,79
+392185,2009,1,Chennai Super Kings,179,5,120
+392185,2009,2,Royal Challengers Bengaluru,87,10,92
+392186,2009,1,Punjab Kings,158,6,120
+392186,2009,2,Kolkata Knight Riders,79,1,56
+392188,2009,1,Deccan Chargers,184,6,120
+392188,2009,2,Royal Challengers Bengaluru,160,8,120
+392189,2009,1,Delhi Capitals,189,5,120
+392189,2009,2,Chennai Super Kings,180,9,120
+392190,2009,1,Rajasthan Royals,150,6,120
+392190,2009,2,Kolkata Knight Riders,150,8,120
+392191,2009,1,Royal Challengers Bengaluru,168,9,120
+392191,2009,2,Punjab Kings,173,3,114
+392192,2009,1,Deccan Chargers,168,9,120
+392192,2009,2,Mumbai Indians,156,7,120
+392194,2009,1,Royal Challengers Bengaluru,149,7,120
+392194,2009,2,Delhi Capitals,150,4,116
+392195,2009,1,Punjab Kings,139,6,120
+392195,2009,2,Rajasthan Royals,112,7,120
+392196,2009,1,Chennai Super Kings,165,6,120
+392196,2009,2,Deccan Chargers,169,4,117
+392197,2009,1,Mumbai Indians,187,6,120
+392197,2009,2,Kolkata Knight Riders,95,9,92
+392198,2009,1,Delhi Capitals,143,7,120
+392198,2009,2,Rajasthan Royals,147,5,112
+392199,2009,1,Kolkata Knight Riders,139,6,120
+392199,2009,2,Royal Challengers Bengaluru,143,5,119
+392200,2009,1,Punjab Kings,119,8,120
+392200,2009,2,Mumbai Indians,116,7,120
+392201,2009,1,Deccan Chargers,148,9,120
+392201,2009,2,Delhi Capitals,150,4,112
+392202,2009,1,Chennai Super Kings,164,5,120
+392202,2009,2,Rajasthan Royals,126,9,117
+392203,2009,1,Mumbai Indians,148,6,120
+392203,2009,2,Kolkata Knight Riders,139,6,120
+392204,2009,1,Royal Challengers Bengaluru,145,9,120
+392204,2009,2,Punjab Kings,137,7,120
+392205,2009,1,Deccan Chargers,141,5,120
+392205,2009,2,Rajasthan Royals,142,7,118
+392206,2009,1,Chennai Super Kings,163,10,120
+392206,2009,2,Delhi Capitals,145,8,120
+392207,2009,1,Kolkata Knight Riders,153,3,120
+392207,2009,2,Punjab Kings,154,4,120
+392208,2009,1,Mumbai Indians,149,4,120
+392208,2009,2,Royal Challengers Bengaluru,150,1,109
+392209,2009,1,Chennai Super Kings,178,3,120
+392209,2009,2,Deccan Chargers,100,10,88
+392210,2009,1,Rajasthan Royals,211,4,120
+392210,2009,2,Punjab Kings,133,8,120
+392211,2009,1,Kolkata Knight Riders,154,3,120
+392211,2009,2,Delhi Capitals,157,1,114
+392212,2009,1,Deccan Chargers,145,6,120
+392212,2009,2,Mumbai Indians,126,8,120
+392213,2009,1,Royal Challengers Bengaluru,105,10,120
+392213,2009,2,Rajasthan Royals,107,3,90
+392214,2009,1,Chennai Super Kings,185,3,108
+392214,2009,2,Punjab Kings,174,3,108
+392215,2009,1,Mumbai Indians,116,10,120
+392215,2009,2,Delhi Capitals,118,3,113
+392216,2009,1,Deccan Chargers,168,5,120
+392216,2009,2,Punjab Kings,169,7,119
+392217,2009,1,Rajasthan Royals,140,7,120
+392217,2009,2,Chennai Super Kings,141,3,110
+392218,2009,1,Mumbai Indians,157,2,120
+392218,2009,2,Royal Challengers Bengaluru,141,7,120
+392219,2009,1,Kolkata Knight Riders,123,8,120
+392219,2009,2,Delhi Capitals,125,3,103
+392220,2009,1,Deccan Chargers,166,7,120
+392220,2009,2,Rajasthan Royals,113,10,117
+392221,2009,1,Kolkata Knight Riders,173,4,120
+392221,2009,2,Royal Challengers Bengaluru,176,4,116
+392222,2009,1,Punjab Kings,119,9,120
+392222,2009,2,Mumbai Indians,122,2,98
+392223,2009,1,Delhi Capitals,173,7,120
+392223,2009,2,Deccan Chargers,161,10,118
+392224,2009,1,Chennai Super Kings,129,10,118
+392224,2009,2,Royal Challengers Bengaluru,132,8,118
+392225,2009,1,Rajasthan Royals,145,7,120
+392225,2009,2,Mumbai Indians,143,10,119
+392226,2009,1,Delhi Capitals,120,9,120
+392226,2009,2,Punjab Kings,123,4,115
+392227,2009,1,Mumbai Indians,147,5,120
+392227,2009,2,Chennai Super Kings,151,3,115
+392228,2009,1,Kolkata Knight Riders,160,5,120
+392228,2009,2,Deccan Chargers,166,4,120
+392229,2009,1,Punjab Kings,134,7,120
+392229,2009,2,Deccan Chargers,133,8,120
+392230,2009,1,Delhi Capitals,150,3,120
+392230,2009,2,Rajasthan Royals,136,9,120
+392231,2009,1,Chennai Super Kings,188,3,120
+392231,2009,2,Kolkata Knight Riders,189,3,120
+392232,2009,1,Delhi Capitals,134,7,120
+392232,2009,2,Royal Challengers Bengaluru,135,3,114
+392233,2009,1,Rajasthan Royals,101,9,120
+392233,2009,2,Kolkata Knight Riders,102,6,117
+392234,2009,1,Chennai Super Kings,116,9,120
+392234,2009,2,Punjab Kings,92,8,120
+392235,2009,1,Mumbai Indians,165,8,120
+392235,2009,2,Delhi Capitals,166,6,105
+392236,2009,1,Royal Challengers Bengaluru,170,4,120
+392236,2009,2,Deccan Chargers,158,6,120
+392237,2009,1,Delhi Capitals,153,8,120
+392237,2009,2,Deccan Chargers,154,4,106
+392238,2009,1,Chennai Super Kings,146,5,120
+392238,2009,2,Royal Challengers Bengaluru,149,4,113
+392239,2009,1,Deccan Chargers,143,6,120
+392239,2009,2,Royal Challengers Bengaluru,137,9,120
+419106,2010,1,Kolkata Knight Riders,161,4,120
+419106,2010,2,Deccan Chargers,150,7,120
+419107,2010,1,Mumbai Indians,212,7,120
+419107,2010,2,Rajasthan Royals,208,7,120
+419108,2010,1,Punjab Kings,142,9,120
+419108,2010,2,Delhi Capitals,146,5,119
+419109,2010,1,Royal Challengers Bengaluru,135,7,120
+419109,2010,2,Kolkata Knight Riders,136,3,116
+419110,2010,1,Deccan Chargers,190,4,120
+419110,2010,2,Chennai Super Kings,159,9,120
+419111,2010,1,Rajasthan Royals,141,6,120
+419111,2010,2,Delhi Capitals,142,4,103
+419112,2010,1,Punjab Kings,203,3,120
+419112,2010,2,Royal Challengers Bengaluru,204,2,113
+419113,2010,1,Chennai Super Kings,164,3,120
+419113,2010,2,Kolkata Knight Riders,109,10,116
+419114,2010,1,Mumbai Indians,218,7,120
+419114,2010,2,Delhi Capitals,120,9,99
+419115,2010,1,Rajasthan Royals,92,10,119
+419115,2010,2,Royal Challengers Bengaluru,93,0,64
+419116,2010,1,Delhi Capitals,185,6,120
+419116,2010,2,Chennai Super Kings,190,5,115
+419117,2010,1,Deccan Chargers,170,8,120
+419117,2010,2,Punjab Kings,164,8,120
+419118,2010,1,Rajasthan Royals,168,7,120
+419118,2010,2,Kolkata Knight Riders,134,5,120
+419119,2010,1,Mumbai Indians,151,9,120
+419119,2010,2,Royal Challengers Bengaluru,155,3,115
+419120,2010,1,Deccan Chargers,171,6,120
+419120,2010,2,Delhi Capitals,161,9,120
+419121,2010,1,Punjab Kings,136,8,120
+419121,2010,2,Chennai Super Kings,136,7,120
+419122,2010,1,Kolkata Knight Riders,155,3,120
+419122,2010,2,Mumbai Indians,156,3,111
+419123,2010,1,Royal Challengers Bengaluru,171,5,120
+419123,2010,2,Chennai Super Kings,135,7,120
+419124,2010,1,Rajasthan Royals,183,5,120
+419124,2010,2,Punjab Kings,152,10,115
+419125,2010,1,Chennai Super Kings,180,2,120
+419125,2010,2,Mumbai Indians,181,5,114
+419126,2010,1,Deccan Chargers,148,9,120
+419126,2010,2,Rajasthan Royals,151,2,94
+419127,2010,1,Kolkata Knight Riders,183,5,120
+419127,2010,2,Punjab Kings,144,6,120
+419128,2010,1,Delhi Capitals,183,4,120
+419128,2010,2,Royal Challengers Bengaluru,166,9,120
+419129,2010,1,Rajasthan Royals,177,8,120
+419129,2010,2,Chennai Super Kings,160,6,120
+419130,2010,1,Mumbai Indians,172,7,120
+419130,2010,2,Deccan Chargers,131,10,106
+419131,2010,1,Delhi Capitals,177,4,120
+419131,2010,2,Kolkata Knight Riders,137,9,120
+419132,2010,1,Punjab Kings,163,10,120
+419132,2010,2,Mumbai Indians,164,6,117
+419133,2010,1,Royal Challengers Bengaluru,161,4,120
+419133,2010,2,Chennai Super Kings,162,5,113
+419134,2010,1,Delhi Capitals,188,6,120
+419134,2010,2,Rajasthan Royals,121,10,106
+419135,2010,1,Kolkata Knight Riders,181,6,120
+419135,2010,2,Deccan Chargers,157,5,120
+419136,2010,1,Punjab Kings,181,5,120
+419136,2010,2,Royal Challengers Bengaluru,184,4,115
+419137,2010,1,Chennai Super Kings,246,5,120
+419137,2010,2,Rajasthan Royals,223,5,120
+419138,2010,1,Mumbai Indians,178,5,120
+419138,2010,2,Deccan Chargers,115,10,110
+419139,2010,1,Kolkata Knight Riders,200,3,120
+419139,2010,2,Punjab Kings,204,2,110
+419140,2010,1,Delhi Capitals,184,5,120
+419140,2010,2,Royal Challengers Bengaluru,147,9,120
+419141,2010,1,Rajasthan Royals,159,10,119
+419141,2010,2,Deccan Chargers,157,10,119
+419142,2010,1,Chennai Super Kings,165,4,120
+419142,2010,2,Mumbai Indians,141,9,120
+419143,2010,1,Punjab Kings,153,6,120
+419143,2010,2,Rajasthan Royals,157,1,90
+419144,2010,1,Kolkata Knight Riders,181,3,120
+419144,2010,2,Delhi Capitals,167,8,120
+419145,2010,1,Royal Challengers Bengaluru,184,6,120
+419145,2010,2,Deccan Chargers,186,3,116
+419146,2010,1,Mumbai Indians,154,9,120
+419146,2010,2,Punjab Kings,158,4,116
+419147,2010,1,Chennai Super Kings,138,8,120
+419147,2010,2,Deccan Chargers,139,4,115
+419148,2010,1,Kolkata Knight Riders,160,9,120
+419148,2010,2,Royal Challengers Bengaluru,162,3,103
+419149,2010,1,Delhi Capitals,111,10,118
+419149,2010,2,Punjab Kings,112,3,112
+419150,2010,1,Mumbai Indians,174,5,120
+419150,2010,2,Rajasthan Royals,137,8,120
+419151,2010,1,Deccan Chargers,151,6,120
+419151,2010,2,Royal Challengers Bengaluru,138,10,118
+419152,2010,1,Mumbai Indians,183,4,120
+419152,2010,2,Delhi Capitals,144,7,120
+419153,2010,1,Kolkata Knight Riders,139,8,120
+419153,2010,2,Chennai Super Kings,143,1,81
+419154,2010,1,Rajasthan Royals,130,6,120
+419154,2010,2,Royal Challengers Bengaluru,132,5,94
+419155,2010,1,Chennai Super Kings,112,9,121
+419155,2010,2,Delhi Capitals,113,4,112
+419156,2010,1,Punjab Kings,174,3,120
+419156,2010,2,Deccan Chargers,178,5,115
+419157,2010,1,Mumbai Indians,191,4,120
+419157,2010,2,Royal Challengers Bengaluru,134,9,120
+419158,2010,1,Rajasthan Royals,132,9,120
+419158,2010,2,Kolkata Knight Riders,133,2,97
+419159,2010,1,Punjab Kings,192,3,120
+419159,2010,2,Chennai Super Kings,195,4,118
+419160,2010,1,Deccan Chargers,145,7,120
+419160,2010,2,Delhi Capitals,134,7,120
+419161,2010,1,Mumbai Indians,133,8,120
+419161,2010,2,Kolkata Knight Riders,135,1,105
+419162,2010,1,Mumbai Indians,184,5,120
+419162,2010,2,Royal Challengers Bengaluru,149,9,120
+419163,2010,1,Chennai Super Kings,142,7,120
+419163,2010,2,Deccan Chargers,104,10,116
+419164,2010,1,Deccan Chargers,82,10,111
+419164,2010,2,Royal Challengers Bengaluru,86,1,83
+419165,2010,1,Chennai Super Kings,168,5,120
+419165,2010,2,Mumbai Indians,146,9,120
+501198,2011,1,Chennai Super Kings,153,4,120
+501198,2011,2,Kolkata Knight Riders,151,7,120
+501199,2011,1,Deccan Chargers,137,8,120
+501199,2011,2,Rajasthan Royals,141,2,113
+501200,2011,1,Kochi Tuskers Kerala,161,5,120
+501200,2011,2,Royal Challengers Bengaluru,162,4,112
+501201,2011,1,Delhi Capitals,95,10,106
+501201,2011,2,Mumbai Indians,99,2,101
+501202,2011,1,Punjab Kings,112,8,119
+501202,2011,2,Pune Warriors,113,3,79
+501203,2011,1,Kolkata Knight Riders,163,4,120
+501203,2011,2,Deccan Chargers,154,8,120
+501204,2011,1,Delhi Capitals,151,6,120
+501204,2011,2,Rajasthan Royals,152,4,111
+501205,2011,1,Royal Challengers Bengaluru,140,4,120
+501205,2011,2,Mumbai Indians,143,1,111
+501206,2011,1,Chennai Super Kings,188,4,120
+501206,2011,2,Punjab Kings,193,4,115
+501207,2011,1,Kochi Tuskers Kerala,148,8,120
+501207,2011,2,Pune Warriors,151,6,113
+501208,2011,1,Deccan Chargers,175,5,120
+501208,2011,2,Royal Challengers Bengaluru,142,9,120
+501209,2011,1,Rajasthan Royals,159,4,120
+501209,2011,2,Kolkata Knight Riders,160,1,111
+501210,2011,1,Mumbai Indians,182,2,120
+501210,2011,2,Kochi Tuskers Kerala,184,2,114
+501211,2011,1,Chennai Super Kings,183,5,120
+501211,2011,2,Royal Challengers Bengaluru,162,7,120
+501212,2011,1,Deccan Chargers,165,8,120
+501212,2011,2,Punjab Kings,166,2,106
+501213,2011,1,Pune Warriors,187,5,120
+501213,2011,2,Delhi Capitals,190,7,116
+501214,2011,1,Rajasthan Royals,81,10,92
+501214,2011,2,Kolkata Knight Riders,85,2,83
+501215,2011,1,Chennai Super Kings,131,4,102
+501215,2011,2,Kochi Tuskers Kerala,135,3,90
+501216,2011,1,Deccan Chargers,168,4,120
+501216,2011,2,Delhi Capitals,152,7,120
+501218,2011,1,Pune Warriors,118,10,104
+501218,2011,2,Mumbai Indians,124,3,120
+501219,2011,1,Kochi Tuskers Kerala,132,7,120
+501219,2011,2,Kolkata Knight Riders,126,9,120
+501220,2011,1,Punjab Kings,195,7,120
+501220,2011,2,Rajasthan Royals,147,7,120
+501221,2011,1,Mumbai Indians,164,4,120
+501221,2011,2,Chennai Super Kings,156,9,120
+501222,2011,1,Kolkata Knight Riders,171,5,120
+501222,2011,2,Royal Challengers Bengaluru,175,1,109
+501223,2011,1,Delhi Capitals,231,4,120
+501223,2011,2,Punjab Kings,202,6,120
+501224,2011,1,Mumbai Indians,172,4,120
+501224,2011,2,Deccan Chargers,135,8,120
+501225,2011,1,Kochi Tuskers Kerala,109,10,120
+501225,2011,2,Rajasthan Royals,111,2,85
+501226,2011,1,Chennai Super Kings,142,6,120
+501226,2011,2,Pune Warriors,117,9,120
+501227,2011,1,Delhi Capitals,160,6,120
+501227,2011,2,Royal Challengers Bengaluru,161,7,117
+501228,2011,1,Pune Warriors,141,6,120
+501228,2011,2,Chennai Super Kings,145,2,117
+501229,2011,1,Deccan Chargers,129,7,120
+501229,2011,2,Kochi Tuskers Kerala,74,10,99
+501230,2011,1,Kolkata Knight Riders,148,7,120
+501230,2011,2,Delhi Capitals,131,9,120
+501231,2011,1,Mumbai Indians,94,8,120
+501231,2011,2,Rajasthan Royals,95,3,109
+501232,2011,1,Royal Challengers Bengaluru,181,5,120
+501232,2011,2,Pune Warriors,155,5,120
+501233,2011,1,Delhi Capitals,157,7,120
+501233,2011,2,Kochi Tuskers Kerala,119,10,113
+501234,2011,1,Punjab Kings,119,6,120
+501234,2011,2,Kolkata Knight Riders,120,2,104
+501235,2011,1,Pune Warriors,143,7,120
+501235,2011,2,Rajasthan Royals,144,4,117
+501236,2011,1,Chennai Super Kings,165,5,120
+501236,2011,2,Deccan Chargers,146,8,120
+501237,2011,1,Mumbai Indians,159,5,120
+501237,2011,2,Punjab Kings,136,8,120
+501238,2011,1,Delhi Capitals,140,6,120
+501238,2011,2,Kochi Tuskers Kerala,141,3,90
+501239,2011,1,Kolkata Knight Riders,169,4,120
+501239,2011,2,Deccan Chargers,149,6,120
+501240,2011,1,Rajasthan Royals,147,6,120
+501240,2011,2,Chennai Super Kings,149,2,112
+501241,2011,1,Mumbai Indians,160,7,120
+501241,2011,2,Pune Warriors,139,7,120
+501242,2011,1,Kochi Tuskers Kerala,156,5,120
+501242,2011,2,Kolkata Knight Riders,139,7,120
+501243,2011,1,Deccan Chargers,175,5,120
+501243,2011,2,Delhi Capitals,179,6,114
+501244,2011,1,Royal Challengers Bengaluru,205,6,120
+501244,2011,2,Punjab Kings,120,9,120
+501245,2011,1,Chennai Super Kings,114,4,120
+501245,2011,2,Kolkata Knight Riders,61,2,60
+501246,2011,1,Mumbai Indians,178,4,120
+501246,2011,2,Delhi Capitals,146,10,119
+501247,2011,1,Kochi Tuskers Kerala,125,9,120
+501247,2011,2,Royal Challengers Bengaluru,128,1,79
+501248,2011,1,Punjab Kings,119,8,120
+501248,2011,2,Pune Warriors,120,5,103
+501249,2011,1,Chennai Super Kings,196,3,120
+501249,2011,2,Rajasthan Royals,133,10,117
+501250,2011,1,Deccan Chargers,136,8,120
+501250,2011,2,Pune Warriors,137,4,110
+501251,2011,1,Punjab Kings,163,8,120
+501251,2011,2,Mumbai Indians,87,10,77
+501252,2011,1,Rajasthan Royals,146,6,120
+501252,2011,2,Royal Challengers Bengaluru,151,1,102
+501253,2011,1,Chennai Super Kings,176,4,120
+501253,2011,2,Delhi Capitals,158,6,120
+501254,2011,1,Kochi Tuskers Kerala,178,7,120
+501254,2011,2,Punjab Kings,181,4,113
+501255,2011,1,Kolkata Knight Riders,89,4,78
+501255,2011,2,Royal Challengers Bengaluru,105,6,74
+501256,2011,1,Deccan Chargers,135,6,120
+501256,2011,2,Mumbai Indians,125,8,120
+501257,2011,1,Punjab Kings,170,6,120
+501257,2011,2,Delhi Capitals,141,8,120
+501258,2011,1,Rajasthan Royals,97,10,111
+501258,2011,2,Kochi Tuskers Kerala,98,2,44
+501259,2011,1,Pune Warriors,136,9,120
+501259,2011,2,Deccan Chargers,138,4,116
+501260,2011,1,Punjab Kings,232,2,120
+501260,2011,2,Royal Challengers Bengaluru,121,10,102
+501261,2011,1,Chennai Super Kings,152,5,120
+501261,2011,2,Kochi Tuskers Kerala,141,5,120
+501262,2011,1,Pune Warriors,118,7,120
+501262,2011,2,Kolkata Knight Riders,119,3,100
+501263,2011,1,Mumbai Indians,133,5,120
+501263,2011,2,Rajasthan Royals,134,0,79
+501264,2011,1,Deccan Chargers,198,2,120
+501264,2011,2,Punjab Kings,116,10,114
+501265,2011,1,Delhi Capitals,56,3,61
+501266,2011,1,Chennai Super Kings,128,8,120
+501266,2011,2,Royal Challengers Bengaluru,129,2,108
+501267,2011,1,Kolkata Knight Riders,175,7,120
+501267,2011,2,Mumbai Indians,178,5,120
+501268,2011,1,Royal Challengers Bengaluru,175,4,120
+501268,2011,2,Chennai Super Kings,177,4,118
+501269,2011,1,Kolkata Knight Riders,147,7,120
+501269,2011,2,Mumbai Indians,148,6,116
+501270,2011,1,Royal Challengers Bengaluru,185,4,120
+501270,2011,2,Mumbai Indians,142,8,120
+501271,2011,1,Chennai Super Kings,205,5,120
+501271,2011,2,Royal Challengers Bengaluru,147,8,120
+548306,2012,1,Chennai Super Kings,112,10,119
+548306,2012,2,Mumbai Indians,115,3,101
+548307,2012,1,Kolkata Knight Riders,97,9,72
+548307,2012,2,Delhi Capitals,100,2,67
+548308,2012,1,Pune Warriors,129,9,120
+548308,2012,2,Mumbai Indians,101,9,120
+548309,2012,1,Rajasthan Royals,191,4,120
+548309,2012,2,Punjab Kings,160,9,120
+548310,2012,1,Royal Challengers Bengaluru,157,8,120
+548310,2012,2,Delhi Capitals,137,7,120
+548311,2012,1,Chennai Super Kings,193,6,120
+548311,2012,2,Deccan Chargers,119,10,103
+548312,2012,1,Rajasthan Royals,164,5,120
+548312,2012,2,Kolkata Knight Riders,142,10,120
+548313,2012,1,Pune Warriors,166,6,120
+548313,2012,2,Punjab Kings,144,8,120
+548314,2012,1,Deccan Chargers,138,9,120
+548314,2012,2,Mumbai Indians,142,5,120
+548315,2012,1,Kolkata Knight Riders,165,8,120
+548315,2012,2,Royal Challengers Bengaluru,123,9,120
+548316,2012,1,Chennai Super Kings,110,8,120
+548316,2012,2,Delhi Capitals,111,2,80
+548317,2012,1,Mumbai Indians,197,6,120
+548317,2012,2,Rajasthan Royals,170,10,118
+548318,2012,1,Royal Challengers Bengaluru,205,8,120
+548318,2012,2,Chennai Super Kings,208,5,120
+548319,2012,1,Pune Warriors,115,10,114
+548319,2012,2,Punjab Kings,116,3,106
+548320,2012,1,Rajasthan Royals,131,5,120
+548320,2012,2,Kolkata Knight Riders,137,5,116
+548321,2012,1,Deccan Chargers,157,8,120
+548321,2012,2,Delhi Capitals,162,5,115
+548322,2012,1,Chennai Super Kings,155,5,120
+548322,2012,2,Pune Warriors,156,3,116
+548323,2012,1,Punjab Kings,134,9,120
+548323,2012,2,Kolkata Knight Riders,132,7,120
+548324,2012,1,Rajasthan Royals,195,2,120
+548324,2012,2,Royal Challengers Bengaluru,136,10,119
+548325,2012,1,Mumbai Indians,92,10,116
+548325,2012,2,Delhi Capitals,93,3,89
+548326,2012,1,Deccan Chargers,196,2,120
+548326,2012,2,Rajasthan Royals,197,5,118
+548327,2012,1,Pune Warriors,182,6,120
+548327,2012,2,Royal Challengers Bengaluru,186,4,120
+548328,2012,1,Punjab Kings,124,7,120
+548328,2012,2,Kolkata Knight Riders,127,2,99
+548329,2012,1,Deccan Chargers,187,4,120
+548329,2012,2,Delhi Capitals,193,1,100
+548330,2012,1,Chennai Super Kings,164,5,120
+548330,2012,2,Pune Warriors,151,7,120
+548331,2012,1,Punjab Kings,163,6,120
+548331,2012,2,Royal Challengers Bengaluru,166,5,117
+548332,2012,1,Rajasthan Royals,146,4,120
+548332,2012,2,Chennai Super Kings,147,3,120
+548333,2012,1,Pune Warriors,192,3,120
+548333,2012,2,Delhi Capitals,172,7,120
+548334,2012,1,Mumbai Indians,163,6,120
+548334,2012,2,Punjab Kings,164,4,117
+548335,2012,1,Deccan Chargers,126,7,120
+548335,2012,2,Kolkata Knight Riders,127,5,114
+548336,2012,1,Royal Challengers Bengaluru,189,3,120
+548336,2012,2,Rajasthan Royals,143,7,120
+548337,2012,1,Pune Warriors,146,2,120
+548337,2012,2,Delhi Capitals,148,2,96
+548339,2012,1,Punjab Kings,168,3,120
+548339,2012,2,Mumbai Indians,171,6,119
+548341,2012,1,Deccan Chargers,177,4,120
+548341,2012,2,Pune Warriors,159,7,120
+548342,2012,1,Delhi Capitals,207,5,120
+548342,2012,2,Mumbai Indians,170,9,120
+548343,2012,1,Punjab Kings,156,8,120
+548343,2012,2,Chennai Super Kings,149,8,120
+548344,2012,1,Kolkata Knight Riders,190,4,120
+548344,2012,2,Royal Challengers Bengaluru,143,6,120
+548345,2012,1,Delhi Capitals,152,6,120
+548345,2012,2,Rajasthan Royals,151,3,120
+548346,2012,1,Deccan Chargers,100,10,112
+548346,2012,2,Mumbai Indians,101,5,109
+548347,2012,1,Chennai Super Kings,139,5,120
+548347,2012,2,Kolkata Knight Riders,140,5,118
+548348,2012,1,Deccan Chargers,186,4,120
+548348,2012,2,Pune Warriors,173,5,120
+548349,2012,1,Rajasthan Royals,141,6,120
+548349,2012,2,Delhi Capitals,144,4,92
+548350,2012,1,Royal Challengers Bengaluru,158,5,120
+548350,2012,2,Punjab Kings,163,6,119
+548351,2012,1,Mumbai Indians,120,9,120
+548351,2012,2,Pune Warriors,119,6,120
+548352,2012,1,Chennai Super Kings,160,6,120
+548352,2012,2,Deccan Chargers,150,5,120
+548353,2012,1,Kolkata Knight Riders,150,5,120
+548353,2012,2,Pune Warriors,143,8,120
+548354,2012,1,Rajasthan Royals,177,6,120
+548354,2012,2,Punjab Kings,134,8,120
+548355,2012,1,Chennai Super Kings,173,8,120
+548355,2012,2,Mumbai Indians,174,8,120
+548356,2012,1,Deccan Chargers,181,2,120
+548356,2012,2,Royal Challengers Bengaluru,185,5,113
+548357,2012,1,Delhi Capitals,153,9,120
+548357,2012,2,Kolkata Knight Riders,154,4,112
+548358,2012,1,Pune Warriors,125,6,120
+548358,2012,2,Rajasthan Royals,126,3,98
+548359,2012,1,Punjab Kings,170,5,120
+548359,2012,2,Deccan Chargers,145,8,120
+548360,2012,1,Mumbai Indians,141,6,120
+548360,2012,2,Royal Challengers Bengaluru,142,1,108
+548361,2012,1,Rajasthan Royals,126,6,120
+548361,2012,2,Chennai Super Kings,127,6,109
+548362,2012,1,Royal Challengers Bengaluru,173,3,120
+548362,2012,2,Pune Warriors,138,9,120
+548363,2012,1,Mumbai Indians,182,1,120
+548363,2012,2,Kolkata Knight Riders,155,4,120
+548364,2012,1,Delhi Capitals,114,5,120
+548364,2012,2,Chennai Super Kings,115,1,92
+548365,2012,1,Rajasthan Royals,170,4,120
+548365,2012,2,Pune Warriors,125,9,120
+548366,2012,1,Deccan Chargers,190,4,120
+548366,2012,2,Punjab Kings,194,6,120
+548367,2012,1,Royal Challengers Bengaluru,171,6,120
+548367,2012,2,Mumbai Indians,173,5,118
+548368,2012,1,Kolkata Knight Riders,158,6,120
+548368,2012,2,Chennai Super Kings,160,5,120
+548369,2012,1,Punjab Kings,136,8,120
+548369,2012,2,Delhi Capitals,140,5,114
+548370,2012,1,Kolkata Knight Riders,140,7,120
+548370,2012,2,Mumbai Indians,108,10,115
+548371,2012,1,Chennai Super Kings,120,7,120
+548371,2012,2,Punjab Kings,123,4,99
+548372,2012,1,Royal Challengers Bengaluru,215,1,120
+548372,2012,2,Delhi Capitals,194,9,120
+548373,2012,1,Rajasthan Royals,126,8,120
+548373,2012,2,Deccan Chargers,128,5,112
+548374,2012,1,Punjab Kings,141,8,120
+548374,2012,2,Delhi Capitals,145,4,110
+548375,2012,1,Kolkata Knight Riders,136,4,120
+548375,2012,2,Pune Warriors,102,8,120
+548376,2012,1,Deccan Chargers,132,7,120
+548376,2012,2,Royal Challengers Bengaluru,123,9,120
+548377,2012,1,Rajasthan Royals,162,6,120
+548377,2012,2,Mumbai Indians,163,0,108
+548378,2012,1,Kolkata Knight Riders,162,4,120
+548378,2012,2,Delhi Capitals,144,8,120
+548379,2012,1,Chennai Super Kings,187,5,120
+548379,2012,2,Mumbai Indians,149,9,120
+548380,2012,1,Chennai Super Kings,222,5,120
+548380,2012,2,Delhi Capitals,136,10,101
+548381,2012,1,Chennai Super Kings,190,3,120
+548381,2012,2,Kolkata Knight Riders,192,5,118
+597998,2013,1,Delhi Capitals,128,10,120
+597998,2013,2,Kolkata Knight Riders,129,4,112
+597999,2013,1,Royal Challengers Bengaluru,156,5,120
+597999,2013,2,Mumbai Indians,154,5,120
+598000,2013,1,Sunrisers Hyderabad,126,6,120
+598000,2013,2,Pune Warriors,104,10,113
+598001,2013,1,Rajasthan Royals,165,7,120
+598001,2013,2,Delhi Capitals,160,6,120
+598002,2013,1,Mumbai Indians,148,6,120
+598002,2013,2,Chennai Super Kings,139,9,120
+598003,2013,1,Pune Warriors,99,9,120
+598003,2013,2,Punjab Kings,100,2,74
+598004,2013,1,Royal Challengers Bengaluru,130,8,120
+598004,2013,2,Sunrisers Hyderabad,130,7,120
+598005,2013,1,Rajasthan Royals,144,6,120
+598005,2013,2,Kolkata Knight Riders,125,10,114
+598006,2013,1,Mumbai Indians,209,5,120
+598006,2013,2,Delhi Capitals,165,9,120
+598007,2013,1,Punjab Kings,138,10,119
+598007,2013,2,Chennai Super Kings,139,0,104
+598008,2013,1,Kolkata Knight Riders,154,8,120
+598008,2013,2,Royal Challengers Bengaluru,158,2,105
+598009,2013,1,Rajasthan Royals,145,5,120
+598009,2013,2,Pune Warriors,148,3,112
+598010,2013,1,Delhi Capitals,114,8,120
+598010,2013,2,Sunrisers Hyderabad,115,7,116
+598011,2013,1,Mumbai Indians,183,3,120
+598011,2013,2,Pune Warriors,142,8,120
+598012,2013,1,Royal Challengers Bengaluru,165,6,120
+598012,2013,2,Chennai Super Kings,166,6,119
+598013,2013,1,Kolkata Knight Riders,180,4,120
+598013,2013,2,Sunrisers Hyderabad,132,7,120
+598014,2013,1,Punjab Kings,124,10,113
+598014,2013,2,Rajasthan Royals,126,4,116
+598015,2013,1,Pune Warriors,159,5,120
+598015,2013,2,Chennai Super Kings,135,8,120
+598016,2013,1,Punjab Kings,157,9,120
+598016,2013,2,Kolkata Knight Riders,153,9,120
+598017,2013,1,Delhi Capitals,152,5,120
+598017,2013,2,Royal Challengers Bengaluru,152,7,120
+598018,2013,1,Sunrisers Hyderabad,119,8,120
+598018,2013,2,Pune Warriors,108,10,114
+598019,2013,1,Rajasthan Royals,179,3,120
+598019,2013,2,Mumbai Indians,92,10,110
+598020,2013,1,Chennai Super Kings,169,4,120
+598020,2013,2,Delhi Capitals,83,10,105
+598021,2013,1,Punjab Kings,123,9,120
+598021,2013,2,Sunrisers Hyderabad,127,5,113
+598022,2013,1,Kolkata Knight Riders,119,9,120
+598022,2013,2,Chennai Super Kings,124,6,115
+598023,2013,1,Rajasthan Royals,117,10,118
+598023,2013,2,Royal Challengers Bengaluru,123,3,107
+598024,2013,1,Mumbai Indians,161,4,120
+598024,2013,2,Delhi Capitals,165,1,102
+598025,2013,1,Pune Warriors,185,4,120
+598025,2013,2,Punjab Kings,186,3,119
+598026,2013,1,Rajasthan Royals,185,4,120
+598026,2013,2,Chennai Super Kings,186,5,119
+598027,2013,1,Royal Challengers Bengaluru,263,5,120
+598027,2013,2,Pune Warriors,133,9,120
+598028,2013,1,Punjab Kings,171,4,120
+598028,2013,2,Delhi Capitals,164,7,120
+598029,2013,1,Kolkata Knight Riders,159,6,120
+598029,2013,2,Mumbai Indians,162,5,119
+598030,2013,1,Sunrisers Hyderabad,159,6,120
+598030,2013,2,Chennai Super Kings,160,5,118
+598031,2013,1,Punjab Kings,149,6,120
+598031,2013,2,Kolkata Knight Riders,150,4,110
+598032,2013,1,Sunrisers Hyderabad,144,9,120
+598032,2013,2,Rajasthan Royals,146,2,107
+598033,2013,1,Mumbai Indians,194,7,120
+598033,2013,2,Royal Challengers Bengaluru,136,7,120
+598034,2013,1,Chennai Super Kings,200,3,120
+598034,2013,2,Kolkata Knight Riders,186,4,120
+598035,2013,1,Delhi Capitals,164,5,120
+598035,2013,2,Pune Warriors,149,4,120
+598036,2013,1,Royal Challengers Bengaluru,171,6,120
+598036,2013,2,Rajasthan Royals,173,6,119
+598037,2013,1,Mumbai Indians,174,3,120
+598037,2013,2,Punjab Kings,170,10,120
+598038,2013,1,Chennai Super Kings,164,3,120
+598038,2013,2,Pune Warriors,127,9,120
+598039,2013,1,Mumbai Indians,129,4,120
+598039,2013,2,Sunrisers Hyderabad,130,3,108
+598040,2013,1,Kolkata Knight Riders,136,7,120
+598040,2013,2,Delhi Capitals,137,3,107
+598041,2013,1,Chennai Super Kings,186,4,120
+598041,2013,2,Punjab Kings,171,6,120
+598042,2013,1,Royal Challengers Bengaluru,187,3,120
+598042,2013,2,Pune Warriors,170,9,120
+598043,2013,1,Rajasthan Royals,132,6,120
+598043,2013,2,Kolkata Knight Riders,133,2,104
+598044,2013,1,Delhi Capitals,80,10,115
+598044,2013,2,Sunrisers Hyderabad,81,4,83
+598045,2013,1,Royal Challengers Bengaluru,174,5,120
+598045,2013,2,Punjab Kings,176,3,109
+598046,2013,1,Mumbai Indians,139,5,120
+598046,2013,2,Chennai Super Kings,79,10,92
+598047,2013,1,Pune Warriors,178,4,120
+598047,2013,2,Rajasthan Royals,182,5,119
+598048,2013,1,Sunrisers Hyderabad,161,6,120
+598048,2013,2,Royal Challengers Bengaluru,162,3,106
+598049,2013,1,Delhi Capitals,154,4,120
+598049,2013,2,Rajasthan Royals,155,1,107
+598050,2013,1,Mumbai Indians,170,6,120
+598050,2013,2,Kolkata Knight Riders,105,10,110
+598051,2013,1,Chennai Super Kings,223,3,120
+598051,2013,2,Sunrisers Hyderabad,146,8,120
+598052,2013,1,Punjab Kings,145,6,120
+598052,2013,2,Rajasthan Royals,147,2,114
+598053,2013,1,Kolkata Knight Riders,152,6,120
+598053,2013,2,Pune Warriors,106,10,117
+598054,2013,1,Royal Challengers Bengaluru,183,4,120
+598054,2013,2,Delhi Capitals,179,7,120
+598055,2013,1,Pune Warriors,112,8,120
+598055,2013,2,Mumbai Indians,116,5,113
+598056,2013,1,Sunrisers Hyderabad,150,7,120
+598056,2013,2,Punjab Kings,120,9,120
+598057,2013,1,Royal Challengers Bengaluru,115,9,120
+598057,2013,2,Kolkata Knight Riders,116,5,116
+598058,2013,1,Chennai Super Kings,141,4,120
+598058,2013,2,Rajasthan Royals,144,5,103
+598059,2013,1,Delhi Capitals,120,7,120
+598059,2013,2,Punjab Kings,121,5,102
+598060,2013,1,Sunrisers Hyderabad,178,3,120
+598060,2013,2,Mumbai Indians,184,4,117
+598061,2013,1,Pune Warriors,170,4,120
+598061,2013,2,Kolkata Knight Riders,163,7,120
+598062,2013,1,Chennai Super Kings,168,4,120
+598062,2013,2,Delhi Capitals,135,9,120
+598063,2013,1,Mumbai Indians,166,8,120
+598063,2013,2,Rajasthan Royals,152,7,120
+598064,2013,1,Royal Challengers Bengaluru,190,3,120
+598064,2013,2,Punjab Kings,194,4,108
+598065,2013,1,Sunrisers Hyderabad,136,9,120
+598065,2013,2,Rajasthan Royals,113,9,120
+598066,2013,1,Punjab Kings,183,8,120
+598066,2013,2,Mumbai Indians,133,9,115
+598067,2013,1,Pune Warriors,172,5,120
+598067,2013,2,Delhi Capitals,134,9,120
+598068,2013,1,Royal Challengers Bengaluru,106,2,48
+598068,2013,2,Chennai Super Kings,82,6,48
+598069,2013,1,Kolkata Knight Riders,130,7,120
+598069,2013,2,Sunrisers Hyderabad,132,5,113
+598070,2013,1,Chennai Super Kings,192,1,120
+598070,2013,2,Mumbai Indians,144,10,112
+598071,2013,1,Sunrisers Hyderabad,132,7,120
+598071,2013,2,Rajasthan Royals,135,6,116
+598072,2013,1,Rajasthan Royals,165,6,120
+598072,2013,2,Mumbai Indians,169,6,119
+598073,2013,1,Mumbai Indians,148,9,120
+598073,2013,2,Chennai Super Kings,125,9,120
+729279,2014,1,Kolkata Knight Riders,163,5,120
+729279,2014,2,Mumbai Indians,122,7,120
+729281,2014,1,Delhi Capitals,145,4,120
+729281,2014,2,Royal Challengers Bengaluru,146,2,100
+729283,2014,1,Chennai Super Kings,205,4,120
+729283,2014,2,Punjab Kings,206,4,113
+729285,2014,1,Sunrisers Hyderabad,133,6,120
+729285,2014,2,Rajasthan Royals,135,6,117
+729287,2014,1,Mumbai Indians,115,9,120
+729287,2014,2,Royal Challengers Bengaluru,116,3,105
+729289,2014,1,Kolkata Knight Riders,166,5,120
+729289,2014,2,Delhi Capitals,167,6,117
+729291,2014,1,Rajasthan Royals,191,5,120
+729291,2014,2,Punjab Kings,193,3,112
+729293,2014,1,Chennai Super Kings,177,7,120
+729293,2014,2,Delhi Capitals,84,9,94
+729295,2014,1,Punjab Kings,193,6,120
+729295,2014,2,Sunrisers Hyderabad,121,10,116
+729297,2014,1,Chennai Super Kings,140,6,120
+729297,2014,2,Rajasthan Royals,133,10,119
+729299,2014,1,Kolkata Knight Riders,150,7,120
+729299,2014,2,Royal Challengers Bengaluru,148,5,120
+729301,2014,1,Sunrisers Hyderabad,184,1,120
+729301,2014,2,Delhi Capitals,180,4,120
+729303,2014,1,Mumbai Indians,141,7,120
+729303,2014,2,Chennai Super Kings,142,3,114
+729305,2014,1,Royal Challengers Bengaluru,70,10,90
+729305,2014,2,Rajasthan Royals,71,4,78
+729307,2014,1,Punjab Kings,132,9,120
+729307,2014,2,Kolkata Knight Riders,109,10,110
+729309,2014,1,Mumbai Indians,125,7,120
+729309,2014,2,Delhi Capitals,126,4,113
+729311,2014,1,Sunrisers Hyderabad,145,5,120
+729311,2014,2,Chennai Super Kings,146,5,117
+729313,2014,1,Royal Challengers Bengaluru,124,8,120
+729313,2014,2,Punjab Kings,127,5,113
+729315,2014,1,Rajasthan Royals,152,5,120
+729315,2014,2,Kolkata Knight Riders,152,8,120
+729317,2014,1,Sunrisers Hyderabad,172,5,120
+729317,2014,2,Mumbai Indians,157,7,120
+733971,2014,1,Chennai Super Kings,148,3,102
+733971,2014,2,Kolkata Knight Riders,114,9,102
+733973,2014,1,Punjab Kings,168,5,120
+733973,2014,2,Mumbai Indians,170,5,115
+733975,2014,1,Delhi Capitals,152,5,120
+733975,2014,2,Rajasthan Royals,156,3,111
+733977,2014,1,Sunrisers Hyderabad,155,6,120
+733977,2014,2,Royal Challengers Bengaluru,158,6,119
+733979,2014,1,Rajasthan Royals,170,6,120
+733979,2014,2,Kolkata Knight Riders,160,6,120
+733981,2014,1,Delhi Capitals,178,5,120
+733981,2014,2,Chennai Super Kings,181,2,118
+733983,2014,1,Mumbai Indians,187,5,120
+733983,2014,2,Royal Challengers Bengaluru,168,8,120
+733985,2014,1,Delhi Capitals,160,5,120
+733985,2014,2,Kolkata Knight Riders,161,2,110
+733987,2014,1,Punjab Kings,231,4,120
+733987,2014,2,Chennai Super Kings,187,6,120
+733989,2014,1,Sunrisers Hyderabad,134,9,120
+733989,2014,2,Rajasthan Royals,102,10,119
+733991,2014,1,Punjab Kings,198,8,120
+733991,2014,2,Royal Challengers Bengaluru,166,9,120
+733993,2014,1,Delhi Capitals,143,7,120
+733993,2014,2,Sunrisers Hyderabad,44,2,26
+733995,2014,1,Mumbai Indians,157,6,120
+733995,2014,2,Chennai Super Kings,160,6,117
+733997,2014,1,Punjab Kings,149,8,120
+733997,2014,2,Kolkata Knight Riders,150,1,108
+733999,2014,1,Royal Challengers Bengaluru,190,5,120
+733999,2014,2,Rajasthan Royals,191,5,113
+734001,2014,1,Sunrisers Hyderabad,157,3,120
+734001,2014,2,Mumbai Indians,160,3,112
+734003,2014,1,Rajasthan Royals,148,8,120
+734003,2014,2,Chennai Super Kings,149,5,118
+734005,2014,1,Royal Challengers Bengaluru,186,4,120
+734005,2014,2,Delhi Capitals,170,7,120
+734007,2014,1,Sunrisers Hyderabad,205,5,120
+734007,2014,2,Punjab Kings,211,4,112
+734009,2014,1,Mumbai Indians,141,5,120
+734009,2014,2,Kolkata Knight Riders,142,4,112
+734011,2014,1,Rajasthan Royals,201,6,120
+734011,2014,2,Delhi Capitals,139,9,120
+734013,2014,1,Chennai Super Kings,138,4,120
+734013,2014,2,Royal Challengers Bengaluru,142,5,119
+734015,2014,1,Sunrisers Hyderabad,142,8,120
+734015,2014,2,Kolkata Knight Riders,146,3,118
+734017,2014,1,Mumbai Indians,178,3,120
+734017,2014,2,Rajasthan Royals,153,8,120
+734019,2014,1,Delhi Capitals,164,7,120
+734019,2014,2,Punjab Kings,165,6,118
+734021,2014,1,Royal Challengers Bengaluru,160,6,120
+734021,2014,2,Sunrisers Hyderabad,161,3,118
+734023,2014,1,Chennai Super Kings,154,4,120
+734023,2014,2,Kolkata Knight Riders,156,2,108
+734025,2014,1,Punjab Kings,156,8,120
+734025,2014,2,Mumbai Indians,159,3,114
+734027,2014,1,Kolkata Knight Riders,195,4,120
+734027,2014,2,Royal Challengers Bengaluru,165,5,120
+734029,2014,1,Chennai Super Kings,185,3,120
+734029,2014,2,Sunrisers Hyderabad,189,4,118
+734031,2014,1,Mumbai Indians,173,10,117
+734031,2014,2,Delhi Capitals,158,4,120
+734033,2014,1,Punjab Kings,179,4,120
+734033,2014,2,Rajasthan Royals,163,8,120
+734035,2014,1,Royal Challengers Bengaluru,154,6,120
+734035,2014,2,Chennai Super Kings,160,2,106
+734037,2014,1,Sunrisers Hyderabad,160,7,120
+734037,2014,2,Kolkata Knight Riders,161,6,86
+734039,2014,1,Delhi Capitals,115,10,109
+734039,2014,2,Punjab Kings,119,3,83
+734041,2014,1,Rajasthan Royals,189,4,120
+734041,2014,2,Mumbai Indians,195,5,88
+734043,2014,1,Kolkata Knight Riders,163,8,120
+734043,2014,2,Punjab Kings,135,8,120
+734045,2014,1,Mumbai Indians,173,8,120
+734045,2014,2,Chennai Super Kings,176,3,112
+734047,2014,1,Punjab Kings,226,6,120
+734047,2014,2,Chennai Super Kings,202,7,120
+734049,2014,1,Punjab Kings,199,4,120
+734049,2014,2,Kolkata Knight Riders,200,7,117
+829705,2015,1,Mumbai Indians,168,3,120
+829705,2015,2,Kolkata Knight Riders,170,3,111
+829707,2015,1,Chennai Super Kings,150,7,120
+829707,2015,2,Delhi Capitals,149,9,120
+829709,2015,1,Rajasthan Royals,162,7,120
+829709,2015,2,Punjab Kings,136,8,120
+829711,2015,1,Chennai Super Kings,209,4,120
+829711,2015,2,Sunrisers Hyderabad,164,6,120
+829713,2015,1,Kolkata Knight Riders,177,6,120
+829713,2015,2,Royal Challengers Bengaluru,179,7,114
+829715,2015,1,Delhi Capitals,184,3,120
+829715,2015,2,Rajasthan Royals,186,7,120
+829717,2015,1,Punjab Kings,177,5,120
+829717,2015,2,Mumbai Indians,159,7,120
+829719,2015,1,Royal Challengers Bengaluru,166,10,119
+829719,2015,2,Sunrisers Hyderabad,172,2,104
+829721,2015,1,Mumbai Indians,164,6,120
+829721,2015,2,Rajasthan Royals,165,3,115
+829723,2015,1,Chennai Super Kings,165,9,120
+829723,2015,2,Kolkata Knight Riders,169,3,119
+829725,2015,1,Punjab Kings,165,7,120
+829725,2015,2,Delhi Capitals,169,5,119
+829727,2015,1,Sunrisers Hyderabad,127,5,120
+829727,2015,2,Rajasthan Royals,131,4,120
+829729,2015,1,Mumbai Indians,183,7,120
+829729,2015,2,Chennai Super Kings,189,4,100
+829731,2015,1,Delhi Capitals,167,4,120
+829731,2015,2,Sunrisers Hyderabad,163,8,120
+829733,2015,1,Punjab Kings,155,9,120
+829733,2015,2,Kolkata Knight Riders,159,6,107
+829735,2015,1,Chennai Super Kings,156,4,120
+829735,2015,2,Rajasthan Royals,157,2,110
+829737,2015,1,Mumbai Indians,209,7,120
+829737,2015,2,Royal Challengers Bengaluru,191,7,120
+829739,2015,1,Delhi Capitals,146,8,120
+829739,2015,2,Kolkata Knight Riders,147,4,109
+829741,2015,1,Rajasthan Royals,191,6,120
+829741,2015,2,Punjab Kings,191,6,120
+829743,2015,1,Sunrisers Hyderabad,176,4,120
+829743,2015,2,Kolkata Knight Riders,101,4,72
+829745,2015,1,Chennai Super Kings,181,8,120
+829745,2015,2,Royal Challengers Bengaluru,154,8,120
+829747,2015,1,Delhi Capitals,190,4,120
+829747,2015,2,Mumbai Indians,153,9,120
+829749,2015,1,Rajasthan Royals,130,9,120
+829749,2015,2,Royal Challengers Bengaluru,134,1,97
+829751,2015,1,Mumbai Indians,157,8,120
+829751,2015,2,Sunrisers Hyderabad,137,8,120
+829753,2015,1,Chennai Super Kings,192,3,120
+829753,2015,2,Punjab Kings,95,9,120
+829757,2015,1,Delhi Capitals,95,10,110
+829757,2015,2,Royal Challengers Bengaluru,99,0,63
+829759,2015,1,Sunrisers Hyderabad,150,6,120
+829759,2015,2,Punjab Kings,130,9,120
+829761,2015,1,Kolkata Knight Riders,171,7,120
+829761,2015,2,Delhi Capitals,158,6,120
+829763,2015,1,Royal Challengers Bengaluru,200,7,120
+829765,2015,1,Chennai Super Kings,134,6,120
+829765,2015,2,Kolkata Knight Riders,132,9,120
+829767,2015,1,Punjab Kings,118,8,120
+829767,2015,2,Delhi Capitals,119,1,83
+829769,2015,1,Mumbai Indians,187,5,120
+829769,2015,2,Rajasthan Royals,179,7,120
+829771,2015,1,Kolkata Knight Riders,111,4,60
+829771,2015,2,Royal Challengers Bengaluru,115,3,58
+829773,2015,1,Sunrisers Hyderabad,192,7,120
+829773,2015,2,Chennai Super Kings,170,6,120
+829775,2015,1,Mumbai Indians,172,3,120
+829775,2015,2,Punjab Kings,149,7,120
+829777,2015,1,Rajasthan Royals,189,2,120
+829777,2015,2,Delhi Capitals,175,7,120
+829779,2015,1,Chennai Super Kings,148,9,120
+829779,2015,2,Royal Challengers Bengaluru,124,10,118
+829781,2015,1,Kolkata Knight Riders,167,7,120
+829781,2015,2,Sunrisers Hyderabad,132,9,120
+829783,2015,1,Delhi Capitals,152,6,120
+829783,2015,2,Mumbai Indians,153,5,117
+829785,2015,1,Royal Challengers Bengaluru,226,3,120
+829785,2015,2,Punjab Kings,88,10,82
+829787,2015,1,Sunrisers Hyderabad,201,4,120
+829787,2015,2,Rajasthan Royals,194,7,120
+829789,2015,1,Chennai Super Kings,158,5,120
+829789,2015,2,Mumbai Indians,159,4,116
+829791,2015,1,Punjab Kings,183,5,120
+829791,2015,2,Kolkata Knight Riders,184,9,119
+829793,2015,1,Sunrisers Hyderabad,163,4,120
+829793,2015,2,Delhi Capitals,157,4,120
+829795,2015,1,Royal Challengers Bengaluru,235,1,120
+829795,2015,2,Mumbai Indians,196,7,120
+829797,2015,1,Chennai Super Kings,157,5,120
+829797,2015,2,Rajasthan Royals,145,9,120
+829799,2015,1,Sunrisers Hyderabad,185,5,120
+829799,2015,2,Punjab Kings,180,7,120
+829801,2015,1,Chennai Super Kings,119,6,120
+829801,2015,2,Delhi Capitals,120,4,100
+829803,2015,1,Punjab Kings,106,6,60
+829803,2015,2,Royal Challengers Bengaluru,84,6,60
+829805,2015,1,Mumbai Indians,171,4,120
+829805,2015,2,Kolkata Knight Riders,166,7,120
+829807,2015,1,Sunrisers Hyderabad,135,3,66
+829807,2015,2,Royal Challengers Bengaluru,83,4,35
+829809,2015,1,Punjab Kings,130,7,120
+829809,2015,2,Chennai Super Kings,134,3,101
+829811,2015,1,Rajasthan Royals,199,6,120
+829811,2015,2,Kolkata Knight Riders,190,9,120
+829813,2015,1,Delhi Capitals,187,5,120
+829813,2015,2,Royal Challengers Bengaluru,2,0,7
+829815,2015,1,Sunrisers Hyderabad,113,10,120
+829815,2015,2,Mumbai Indians,114,1,83
+829817,2015,1,Mumbai Indians,187,6,120
+829817,2015,2,Chennai Super Kings,162,10,114
+829819,2015,1,Royal Challengers Bengaluru,180,4,120
+829819,2015,2,Rajasthan Royals,109,10,114
+829821,2015,1,Royal Challengers Bengaluru,139,8,120
+829821,2015,2,Chennai Super Kings,140,7,119
+829823,2015,1,Mumbai Indians,202,5,120
+829823,2015,2,Chennai Super Kings,161,8,120
+980901,2016,1,Mumbai Indians,121,8,120
+980901,2016,2,Rising Pune Supergiant,126,1,88
+980903,2016,1,Delhi Capitals,98,10,106
+980903,2016,2,Kolkata Knight Riders,99,1,85
+980905,2016,1,Punjab Kings,161,6,120
+980905,2016,2,Gujarat Lions,162,5,106
+980907,2016,1,Royal Challengers Bengaluru,227,4,120
+980907,2016,2,Sunrisers Hyderabad,182,6,120
+980909,2016,1,Kolkata Knight Riders,187,5,120
+980909,2016,2,Mumbai Indians,188,4,115
+980911,2016,1,Rising Pune Supergiant,163,5,120
+980911,2016,2,Gujarat Lions,164,3,108
+980913,2016,1,Punjab Kings,111,9,120
+980913,2016,2,Delhi Capitals,113,2,81
+980915,2016,1,Sunrisers Hyderabad,142,7,120
+980915,2016,2,Kolkata Knight Riders,146,2,110
+980917,2016,1,Mumbai Indians,143,8,120
+980917,2016,2,Gujarat Lions,147,7,120
+980919,2016,1,Rising Pune Supergiant,152,7,120
+980919,2016,2,Punjab Kings,153,4,112
+980921,2016,1,Royal Challengers Bengaluru,191,5,120
+980921,2016,2,Delhi Capitals,192,3,115
+980923,2016,1,Mumbai Indians,142,6,120
+980923,2016,2,Sunrisers Hyderabad,145,3,105
+980925,2016,1,Punjab Kings,138,8,120
+980925,2016,2,Kolkata Knight Riders,141,4,103
+980927,2016,1,Royal Challengers Bengaluru,170,7,120
+980927,2016,2,Mumbai Indians,171,4,108
+980929,2016,1,Gujarat Lions,135,8,120
+980929,2016,2,Sunrisers Hyderabad,137,0,89
+980931,2016,1,Royal Challengers Bengaluru,185,3,120
+980931,2016,2,Rising Pune Supergiant,172,9,120
+980933,2016,1,Delhi Capitals,164,4,120
+980933,2016,2,Mumbai Indians,154,7,120
+980935,2016,1,Punjab Kings,143,6,120
+980935,2016,2,Sunrisers Hyderabad,146,5,107
+980937,2016,1,Royal Challengers Bengaluru,180,2,120
+980937,2016,2,Gujarat Lions,182,4,117
+980939,2016,1,Rising Pune Supergiant,160,5,120
+980939,2016,2,Kolkata Knight Riders,162,8,117
+980941,2016,1,Mumbai Indians,189,6,120
+980941,2016,2,Punjab Kings,164,7,120
+980943,2016,1,Sunrisers Hyderabad,118,8,120
+980943,2016,2,Rising Pune Supergiant,94,3,66
+980945,2016,1,Gujarat Lions,172,6,120
+980945,2016,2,Delhi Capitals,171,5,120
+980947,2016,1,Kolkata Knight Riders,174,5,120
+980947,2016,2,Mumbai Indians,178,4,108
+980949,2016,1,Rising Pune Supergiant,195,3,120
+980949,2016,2,Gujarat Lions,196,7,120
+980951,2016,1,Delhi Capitals,186,8,120
+980951,2016,2,Kolkata Knight Riders,159,10,111
+980953,2016,1,Sunrisers Hyderabad,194,5,120
+980953,2016,2,Royal Challengers Bengaluru,179,6,120
+980955,2016,1,Punjab Kings,154,10,119
+980955,2016,2,Gujarat Lions,131,9,120
+980957,2016,1,Rising Pune Supergiant,159,5,120
+980957,2016,2,Mumbai Indians,161,2,111
+980959,2016,1,Royal Challengers Bengaluru,185,7,120
+980959,2016,2,Kolkata Knight Riders,189,5,115
+980961,2016,1,Gujarat Lions,149,7,120
+980961,2016,2,Delhi Capitals,150,2,104
+980963,2016,1,Kolkata Knight Riders,164,3,120
+980963,2016,2,Punjab Kings,157,9,120
+980965,2016,1,Delhi Capitals,162,7,120
+980965,2016,2,Rising Pune Supergiant,166,3,115
+980967,2016,1,Gujarat Lions,126,6,120
+980967,2016,2,Sunrisers Hyderabad,129,5,114
+980969,2016,1,Rising Pune Supergiant,191,6,120
+980969,2016,2,Royal Challengers Bengaluru,195,3,117
+980971,2016,1,Punjab Kings,181,5,120
+980971,2016,2,Delhi Capitals,172,5,120
+980973,2016,1,Sunrisers Hyderabad,177,3,120
+980973,2016,2,Mumbai Indians,92,10,99
+980975,2016,1,Kolkata Knight Riders,158,4,120
+980975,2016,2,Gujarat Lions,164,5,108
+980977,2016,1,Royal Challengers Bengaluru,175,6,120
+980977,2016,2,Punjab Kings,174,4,120
+980979,2016,1,Sunrisers Hyderabad,137,8,120
+980979,2016,2,Rising Pune Supergiant,133,8,120
+980981,2016,1,Royal Challengers Bengaluru,151,4,120
+980981,2016,2,Mumbai Indians,153,4,112
+980983,2016,1,Sunrisers Hyderabad,146,8,120
+980983,2016,2,Delhi Capitals,150,3,109
+980985,2016,1,Mumbai Indians,124,9,120
+980985,2016,2,Punjab Kings,127,3,102
+980987,2016,1,Royal Challengers Bengaluru,248,3,120
+980987,2016,2,Gujarat Lions,104,10,112
+980989,2016,1,Rising Pune Supergiant,103,6,106
+980989,2016,2,Kolkata Knight Riders,66,2,30
+980991,2016,1,Punjab Kings,179,4,120
+980991,2016,2,Sunrisers Hyderabad,180,3,118
+980993,2016,1,Mumbai Indians,206,4,120
+980993,2016,2,Delhi Capitals,126,10,115
+980995,2016,1,Kolkata Knight Riders,183,5,120
+980995,2016,2,Royal Challengers Bengaluru,186,1,112
+980997,2016,1,Delhi Capitals,121,6,120
+980997,2016,2,Rising Pune Supergiant,76,1,66
+980999,2016,1,Royal Challengers Bengaluru,211,3,90
+980999,2016,2,Punjab Kings,120,9,84
+981001,2016,1,Kolkata Knight Riders,124,8,120
+981001,2016,2,Gujarat Lions,125,4,81
+981003,2016,1,Sunrisers Hyderabad,158,7,120
+981003,2016,2,Delhi Capitals,161,4,120
+981005,2016,1,Punjab Kings,172,7,120
+981005,2016,2,Rising Pune Supergiant,173,6,120
+981007,2016,1,Mumbai Indians,172,8,120
+981007,2016,2,Gujarat Lions,173,4,107
+981009,2016,1,Kolkata Knight Riders,171,6,120
+981009,2016,2,Sunrisers Hyderabad,149,8,120
+981011,2016,1,Delhi Capitals,138,8,120
+981011,2016,2,Royal Challengers Bengaluru,139,4,109
+981013,2016,1,Gujarat Lions,158,10,120
+981013,2016,2,Royal Challengers Bengaluru,159,6,110
+981015,2016,1,Sunrisers Hyderabad,162,8,120
+981015,2016,2,Kolkata Knight Riders,140,8,120
+981017,2016,1,Gujarat Lions,162,7,120
+981017,2016,2,Sunrisers Hyderabad,163,6,116
+981019,2016,1,Sunrisers Hyderabad,208,7,120
+981019,2016,2,Royal Challengers Bengaluru,200,7,120
+1082591,2017,1,Sunrisers Hyderabad,207,4,120
+1082591,2017,2,Royal Challengers Bengaluru,172,10,118
+1082592,2017,1,Mumbai Indians,184,8,120
+1082592,2017,2,Rising Pune Supergiant,187,3,119
+1082593,2017,1,Gujarat Lions,183,4,120
+1082593,2017,2,Kolkata Knight Riders,184,0,89
+1082594,2017,1,Rising Pune Supergiant,163,6,120
+1082594,2017,2,Punjab Kings,164,4,114
+1082595,2017,1,Royal Challengers Bengaluru,157,8,120
+1082595,2017,2,Delhi Capitals,142,9,120
+1082596,2017,1,Gujarat Lions,135,7,120
+1082596,2017,2,Sunrisers Hyderabad,140,1,93
+1082597,2017,1,Kolkata Knight Riders,178,7,120
+1082597,2017,2,Mumbai Indians,180,6,119
+1082598,2017,1,Royal Challengers Bengaluru,148,4,120
+1082598,2017,2,Punjab Kings,150,2,87
+1082599,2017,1,Delhi Capitals,205,4,120
+1082599,2017,2,Rising Pune Supergiant,108,10,97
+1082600,2017,1,Sunrisers Hyderabad,158,8,120
+1082600,2017,2,Mumbai Indians,159,6,112
+1082601,2017,1,Punjab Kings,170,9,120
+1082601,2017,2,Kolkata Knight Riders,171,2,99
+1082602,2017,1,Royal Challengers Bengaluru,142,5,120
+1082602,2017,2,Mumbai Indians,145,6,113
+1082603,2017,1,Rising Pune Supergiant,171,8,120
+1082603,2017,2,Gujarat Lions,172,3,108
+1082604,2017,1,Kolkata Knight Riders,172,6,120
+1082604,2017,2,Sunrisers Hyderabad,155,6,120
+1082605,2017,1,Delhi Capitals,188,6,120
+1082605,2017,2,Punjab Kings,137,9,120
+1082606,2017,1,Gujarat Lions,176,4,120
+1082606,2017,2,Mumbai Indians,177,4,117
+1082607,2017,1,Rising Pune Supergiant,161,8,120
+1082607,2017,2,Royal Challengers Bengaluru,134,9,120
+1082608,2017,1,Delhi Capitals,168,7,120
+1082608,2017,2,Kolkata Knight Riders,169,6,119
+1082609,2017,1,Sunrisers Hyderabad,159,6,120
+1082609,2017,2,Punjab Kings,154,10,118
+1082610,2017,1,Royal Challengers Bengaluru,213,2,120
+1082610,2017,2,Gujarat Lions,192,7,120
+1082611,2017,1,Sunrisers Hyderabad,191,4,120
+1082611,2017,2,Delhi Capitals,176,5,120
+1082612,2017,1,Punjab Kings,198,4,120
+1082612,2017,2,Mumbai Indians,199,2,93
+1082613,2017,1,Kolkata Knight Riders,187,5,120
+1082613,2017,2,Gujarat Lions,188,6,110
+1082614,2017,1,Mumbai Indians,142,8,120
+1082614,2017,2,Delhi Capitals,128,7,120
+1082615,2017,1,Sunrisers Hyderabad,176,3,120
+1082615,2017,2,Rising Pune Supergiant,179,4,120
+1082616,2017,1,Punjab Kings,188,7,120
+1082616,2017,2,Gujarat Lions,162,7,120
+1082617,2017,1,Kolkata Knight Riders,131,10,117
+1082617,2017,2,Royal Challengers Bengaluru,49,10,58
+1082618,2017,1,Rising Pune Supergiant,160,6,120
+1082618,2017,2,Mumbai Indians,157,8,120
+1082620,2017,1,Rising Pune Supergiant,182,5,120
+1082620,2017,2,Kolkata Knight Riders,184,3,109
+1082621,2017,1,Royal Challengers Bengaluru,134,10,120
+1082621,2017,2,Gujarat Lions,135,3,83
+1082622,2017,1,Delhi Capitals,160,6,120
+1082622,2017,2,Kolkata Knight Riders,161,3,98
+1082623,2017,1,Sunrisers Hyderabad,207,3,120
+1082623,2017,2,Punjab Kings,181,9,120
+1082624,2017,1,Rising Pune Supergiant,157,3,120
+1082624,2017,2,Royal Challengers Bengaluru,96,9,120
+1082625,2017,1,Gujarat Lions,153,9,120
+1082625,2017,2,Mumbai Indians,153,10,120
+1082626,2017,1,Delhi Capitals,67,10,103
+1082626,2017,2,Punjab Kings,68,0,47
+1082627,2017,1,Sunrisers Hyderabad,209,3,120
+1082627,2017,2,Kolkata Knight Riders,161,7,120
+1082628,2017,1,Royal Challengers Bengaluru,162,8,120
+1082628,2017,2,Mumbai Indians,165,6,119
+1082629,2017,1,Gujarat Lions,161,10,119
+1082629,2017,2,Rising Pune Supergiant,167,5,119
+1082630,2017,1,Sunrisers Hyderabad,185,3,120
+1082630,2017,2,Delhi Capitals,189,4,115
+1082631,2017,1,Kolkata Knight Riders,155,8,120
+1082631,2017,2,Rising Pune Supergiant,158,6,116
+1082632,2017,1,Gujarat Lions,208,7,120
+1082632,2017,2,Delhi Capitals,214,3,105
+1082633,2017,1,Punjab Kings,138,7,120
+1082633,2017,2,Royal Challengers Bengaluru,119,10,114
+1082634,2017,1,Rising Pune Supergiant,148,8,120
+1082634,2017,2,Sunrisers Hyderabad,136,9,120
+1082635,2017,1,Mumbai Indians,212,3,120
+1082635,2017,2,Delhi Capitals,66,10,82
+1082636,2017,1,Royal Challengers Bengaluru,158,6,120
+1082636,2017,2,Kolkata Knight Riders,159,4,91
+1082637,2017,1,Punjab Kings,189,3,120
+1082637,2017,2,Gujarat Lions,192,4,118
+1082638,2017,1,Mumbai Indians,138,7,120
+1082638,2017,2,Sunrisers Hyderabad,140,3,110
+1082639,2017,1,Punjab Kings,167,6,120
+1082639,2017,2,Kolkata Knight Riders,153,6,120
+1082640,2017,1,Gujarat Lions,195,5,120
+1082640,2017,2,Delhi Capitals,197,8,118
+1082641,2017,1,Punjab Kings,230,3,120
+1082641,2017,2,Mumbai Indians,223,6,120
+1082642,2017,1,Delhi Capitals,168,8,120
+1082642,2017,2,Rising Pune Supergiant,161,7,120
+1082643,2017,1,Gujarat Lions,154,10,116
+1082643,2017,2,Sunrisers Hyderabad,158,2,109
+1082644,2017,1,Mumbai Indians,173,5,120
+1082644,2017,2,Kolkata Knight Riders,164,8,120
+1082645,2017,1,Punjab Kings,73,10,95
+1082645,2017,2,Rising Pune Supergiant,78,1,72
+1082646,2017,1,Royal Challengers Bengaluru,161,6,120
+1082646,2017,2,Delhi Capitals,151,10,120
+1082647,2017,1,Rising Pune Supergiant,162,4,120
+1082647,2017,2,Mumbai Indians,142,9,120
+1082648,2017,1,Sunrisers Hyderabad,128,7,120
+1082648,2017,2,Kolkata Knight Riders,48,3,32
+1082649,2017,1,Kolkata Knight Riders,107,10,113
+1082649,2017,2,Mumbai Indians,111,4,87
+1082650,2017,1,Mumbai Indians,129,8,120
+1082650,2017,2,Rising Pune Supergiant,128,6,120
+1136561,2018,1,Mumbai Indians,165,4,120
+1136561,2018,2,Chennai Super Kings,169,9,119
+1136562,2018,1,Delhi Capitals,166,7,120
+1136562,2018,2,Punjab Kings,167,4,113
+1136563,2018,1,Royal Challengers Bengaluru,176,7,120
+1136563,2018,2,Kolkata Knight Riders,177,6,113
+1136564,2018,1,Rajasthan Royals,125,9,120
+1136564,2018,2,Sunrisers Hyderabad,127,1,96
+1136565,2018,1,Kolkata Knight Riders,202,6,120
+1136565,2018,2,Chennai Super Kings,205,5,119
+1136566,2018,1,Rajasthan Royals,153,5,107
+1136566,2018,2,Delhi Capitals,60,4,36
+1136567,2018,1,Mumbai Indians,147,8,120
+1136567,2018,2,Sunrisers Hyderabad,151,9,120
+1136568,2018,1,Punjab Kings,155,10,116
+1136568,2018,2,Royal Challengers Bengaluru,159,6,117
+1136569,2018,1,Mumbai Indians,194,7,120
+1136569,2018,2,Delhi Capitals,195,3,120
+1136570,2018,1,Kolkata Knight Riders,138,8,120
+1136570,2018,2,Sunrisers Hyderabad,139,5,114
+1136571,2018,1,Rajasthan Royals,217,4,120
+1136571,2018,2,Royal Challengers Bengaluru,198,6,120
+1136572,2018,1,Punjab Kings,197,7,120
+1136572,2018,2,Chennai Super Kings,193,5,120
+1136573,2018,1,Kolkata Knight Riders,200,9,120
+1136573,2018,2,Delhi Capitals,129,10,86
+1136574,2018,1,Mumbai Indians,213,6,120
+1136574,2018,2,Royal Challengers Bengaluru,167,8,120
+1136575,2018,1,Rajasthan Royals,160,8,120
+1136575,2018,2,Kolkata Knight Riders,163,3,113
+1136576,2018,1,Punjab Kings,193,3,120
+1136576,2018,2,Sunrisers Hyderabad,178,5,120
+1136577,2018,1,Chennai Super Kings,204,5,120
+1136577,2018,2,Rajasthan Royals,140,10,111
+1136578,2018,1,Kolkata Knight Riders,191,7,120
+1136578,2018,2,Punjab Kings,126,1,67
+1136579,2018,1,Delhi Capitals,174,5,120
+1136579,2018,2,Royal Challengers Bengaluru,176,4,108
+1136580,2018,1,Chennai Super Kings,182,3,120
+1136580,2018,2,Sunrisers Hyderabad,178,6,120
+1136581,2018,1,Mumbai Indians,167,7,120
+1136581,2018,2,Rajasthan Royals,168,7,118
+1136582,2018,1,Punjab Kings,143,8,120
+1136582,2018,2,Delhi Capitals,139,8,120
+1136583,2018,1,Sunrisers Hyderabad,118,10,112
+1136583,2018,2,Mumbai Indians,87,10,113
+1136584,2018,1,Royal Challengers Bengaluru,205,8,120
+1136584,2018,2,Chennai Super Kings,207,5,118
+1136585,2018,1,Sunrisers Hyderabad,132,6,120
+1136585,2018,2,Punjab Kings,119,10,116
+1136586,2018,1,Delhi Capitals,219,4,120
+1136586,2018,2,Kolkata Knight Riders,164,9,120
+1136587,2018,1,Chennai Super Kings,169,5,120
+1136587,2018,2,Mumbai Indians,170,2,118
+1136588,2018,1,Sunrisers Hyderabad,151,7,120
+1136588,2018,2,Rajasthan Royals,140,6,120
+1136589,2018,1,Royal Challengers Bengaluru,175,4,120
+1136589,2018,2,Kolkata Knight Riders,176,5,115
+1136590,2018,1,Chennai Super Kings,211,4,120
+1136590,2018,2,Delhi Capitals,198,5,120
+1136591,2018,1,Royal Challengers Bengaluru,167,7,120
+1136591,2018,2,Mumbai Indians,153,7,120
+1136592,2018,1,Delhi Capitals,196,6,103
+1136592,2018,2,Rajasthan Royals,146,5,72
+1136593,2018,1,Chennai Super Kings,177,5,120
+1136593,2018,2,Kolkata Knight Riders,180,4,106
+1136594,2018,1,Punjab Kings,174,6,120
+1136594,2018,2,Mumbai Indians,176,4,114
+1136595,2018,1,Royal Challengers Bengaluru,127,9,120
+1136595,2018,2,Chennai Super Kings,128,4,108
+1136596,2018,1,Delhi Capitals,163,5,120
+1136596,2018,2,Sunrisers Hyderabad,164,3,119
+1136597,2018,1,Mumbai Indians,181,4,120
+1136597,2018,2,Kolkata Knight Riders,168,6,120
+1136598,2018,1,Rajasthan Royals,152,9,120
+1136598,2018,2,Punjab Kings,155,4,112
+1136599,2018,1,Sunrisers Hyderabad,146,10,120
+1136599,2018,2,Royal Challengers Bengaluru,141,6,120
+1136600,2018,1,Rajasthan Royals,158,8,120
+1136600,2018,2,Punjab Kings,143,7,120
+1136601,2018,1,Mumbai Indians,210,6,120
+1136601,2018,2,Kolkata Knight Riders,108,10,109
+1136602,2018,1,Delhi Capitals,187,5,120
+1136602,2018,2,Sunrisers Hyderabad,191,1,113
+1136603,2018,1,Chennai Super Kings,176,4,120
+1136603,2018,2,Rajasthan Royals,177,6,119
+1136604,2018,1,Kolkata Knight Riders,245,6,120
+1136604,2018,2,Punjab Kings,214,8,120
+1136605,2018,1,Delhi Capitals,181,4,120
+1136605,2018,2,Royal Challengers Bengaluru,187,5,114
+1136606,2018,1,Sunrisers Hyderabad,179,4,120
+1136606,2018,2,Chennai Super Kings,180,2,114
+1136607,2018,1,Mumbai Indians,168,6,120
+1136607,2018,2,Rajasthan Royals,171,3,108
+1136608,2018,1,Punjab Kings,88,10,91
+1136608,2018,2,Royal Challengers Bengaluru,92,0,49
+1136609,2018,1,Rajasthan Royals,142,10,114
+1136609,2018,2,Kolkata Knight Riders,145,4,108
+1136610,2018,1,Mumbai Indians,186,8,120
+1136610,2018,2,Punjab Kings,183,5,120
+1136611,2018,1,Royal Challengers Bengaluru,218,6,120
+1136611,2018,2,Sunrisers Hyderabad,204,3,120
+1136612,2018,1,Delhi Capitals,162,5,120
+1136612,2018,2,Chennai Super Kings,128,6,120
+1136613,2018,1,Rajasthan Royals,164,5,120
+1136613,2018,2,Royal Challengers Bengaluru,134,10,116
+1136614,2018,1,Sunrisers Hyderabad,172,9,120
+1136614,2018,2,Kolkata Knight Riders,173,5,118
+1136615,2018,1,Delhi Capitals,174,4,120
+1136615,2018,2,Mumbai Indians,163,10,117
+1136616,2018,1,Punjab Kings,153,10,118
+1136616,2018,2,Chennai Super Kings,159,5,115
+1136617,2018,1,Sunrisers Hyderabad,139,7,120
+1136617,2018,2,Chennai Super Kings,140,8,115
+1136618,2018,1,Kolkata Knight Riders,169,7,120
+1136618,2018,2,Rajasthan Royals,144,4,120
+1136619,2018,1,Sunrisers Hyderabad,174,7,120
+1136619,2018,2,Kolkata Knight Riders,160,9,120
+1136620,2018,1,Sunrisers Hyderabad,178,6,120
+1136620,2018,2,Chennai Super Kings,181,2,111
+1175356,2019,1,Royal Challengers Bengaluru,70,10,103
+1175356,2019,2,Chennai Super Kings,71,3,106
+1175357,2019,1,Sunrisers Hyderabad,181,3,120
+1175357,2019,2,Kolkata Knight Riders,183,4,118
+1175358,2019,1,Delhi Capitals,213,6,120
+1175358,2019,2,Mumbai Indians,176,9,116
+1175359,2019,1,Punjab Kings,184,4,120
+1175359,2019,2,Rajasthan Royals,170,9,120
+1175360,2019,1,Delhi Capitals,147,6,120
+1175360,2019,2,Chennai Super Kings,150,4,118
+1175361,2019,1,Kolkata Knight Riders,218,4,120
+1175361,2019,2,Punjab Kings,190,4,120
+1175362,2019,1,Mumbai Indians,187,8,120
+1175362,2019,2,Royal Challengers Bengaluru,181,5,120
+1175363,2019,1,Rajasthan Royals,198,2,120
+1175363,2019,2,Sunrisers Hyderabad,201,5,114
+1175364,2019,1,Mumbai Indians,176,7,120
+1175364,2019,2,Punjab Kings,177,2,112
+1175365,2019,1,Kolkata Knight Riders,185,8,120
+1175365,2019,2,Delhi Capitals,185,6,120
+1175366,2019,1,Sunrisers Hyderabad,231,2,120
+1175366,2019,2,Royal Challengers Bengaluru,113,10,119
+1175367,2019,1,Chennai Super Kings,175,5,120
+1175367,2019,2,Rajasthan Royals,167,8,120
+1175368,2019,1,Punjab Kings,166,9,120
+1175368,2019,2,Delhi Capitals,152,10,116
+1175369,2019,1,Royal Challengers Bengaluru,158,4,120
+1175369,2019,2,Rajasthan Royals,164,3,119
+1175370,2019,1,Mumbai Indians,170,5,120
+1175370,2019,2,Chennai Super Kings,133,8,120
+1175371,2019,1,Delhi Capitals,129,8,120
+1175371,2019,2,Sunrisers Hyderabad,131,5,111
+1175372,2019,1,Royal Challengers Bengaluru,205,3,120
+1175372,2019,2,Kolkata Knight Riders,206,5,115
+1178393,2019,1,Chennai Super Kings,160,3,120
+1178393,2019,2,Punjab Kings,138,5,120
+1178394,2019,1,Mumbai Indians,136,7,120
+1178394,2019,2,Sunrisers Hyderabad,96,10,106
+1178395,2019,1,Royal Challengers Bengaluru,149,8,120
+1178395,2019,2,Delhi Capitals,152,6,113
+1178396,2019,1,Rajasthan Royals,139,3,120
+1178396,2019,2,Kolkata Knight Riders,140,2,83
+1178397,2019,1,Sunrisers Hyderabad,150,4,120
+1178397,2019,2,Punjab Kings,151,4,119
+1178398,2019,1,Kolkata Knight Riders,108,9,120
+1178398,2019,2,Chennai Super Kings,111,3,104
+1178399,2019,1,Punjab Kings,197,4,120
+1178399,2019,2,Mumbai Indians,198,7,120
+1178400,2019,1,Rajasthan Royals,151,7,120
+1178400,2019,2,Chennai Super Kings,155,6,120
+1178401,2019,1,Kolkata Knight Riders,178,7,120
+1178401,2019,2,Delhi Capitals,180,3,113
+1178402,2019,1,Mumbai Indians,187,5,120
+1178402,2019,2,Rajasthan Royals,188,6,117
+1178403,2019,1,Punjab Kings,173,4,120
+1178403,2019,2,Royal Challengers Bengaluru,174,2,116
+1178404,2019,1,Kolkata Knight Riders,161,8,120
+1178404,2019,2,Chennai Super Kings,162,5,118
+1178405,2019,1,Delhi Capitals,155,7,120
+1178405,2019,2,Sunrisers Hyderabad,116,10,113
+1178406,2019,1,Royal Challengers Bengaluru,171,7,120
+1178406,2019,2,Mumbai Indians,172,5,114
+1178407,2019,1,Punjab Kings,182,6,120
+1178407,2019,2,Rajasthan Royals,170,7,120
+1178408,2019,1,Chennai Super Kings,132,5,120
+1178408,2019,2,Sunrisers Hyderabad,137,4,101
+1178409,2019,1,Mumbai Indians,168,5,120
+1178409,2019,2,Delhi Capitals,128,9,120
+1178410,2019,1,Royal Challengers Bengaluru,213,4,120
+1178410,2019,2,Kolkata Knight Riders,203,5,120
+1178411,2019,1,Mumbai Indians,161,5,120
+1178411,2019,2,Rajasthan Royals,162,5,115
+1178412,2019,1,Punjab Kings,163,7,120
+1178412,2019,2,Delhi Capitals,166,5,118
+1178413,2019,1,Kolkata Knight Riders,159,8,120
+1178413,2019,2,Sunrisers Hyderabad,161,1,90
+1178414,2019,1,Royal Challengers Bengaluru,161,7,120
+1178414,2019,2,Chennai Super Kings,160,8,120
+1178415,2019,1,Rajasthan Royals,191,6,120
+1178415,2019,2,Delhi Capitals,193,4,116
+1178416,2019,1,Sunrisers Hyderabad,175,3,120
+1178416,2019,2,Chennai Super Kings,176,4,119
+1178417,2019,1,Royal Challengers Bengaluru,202,4,120
+1178417,2019,2,Punjab Kings,185,7,120
+1178418,2019,1,Kolkata Knight Riders,175,6,120
+1178418,2019,2,Rajasthan Royals,177,7,116
+1178419,2019,1,Mumbai Indians,155,4,120
+1178419,2019,2,Chennai Super Kings,109,10,106
+1178420,2019,1,Sunrisers Hyderabad,160,8,120
+1178420,2019,2,Rajasthan Royals,161,3,115
+1178421,2019,1,Delhi Capitals,187,5,120
+1178421,2019,2,Royal Challengers Bengaluru,171,7,120
+1178422,2019,1,Kolkata Knight Riders,232,2,120
+1178422,2019,2,Mumbai Indians,198,7,120
+1178423,2019,1,Sunrisers Hyderabad,212,6,120
+1178423,2019,2,Punjab Kings,167,8,120
+1178424,2019,1,Royal Challengers Bengaluru,62,7,30
+1178424,2019,2,Rajasthan Royals,41,1,20
+1178425,2019,1,Chennai Super Kings,179,4,120
+1178425,2019,2,Delhi Capitals,99,10,98
+1178426,2019,1,Mumbai Indians,162,5,120
+1178426,2019,2,Sunrisers Hyderabad,162,6,120
+1178427,2019,1,Punjab Kings,183,6,120
+1178427,2019,2,Kolkata Knight Riders,185,3,108
+1178428,2019,1,Rajasthan Royals,115,9,120
+1178428,2019,2,Delhi Capitals,121,5,97
+1178429,2019,1,Sunrisers Hyderabad,175,7,120
+1178429,2019,2,Royal Challengers Bengaluru,178,6,116
+1178430,2019,1,Chennai Super Kings,170,5,120
+1178430,2019,2,Punjab Kings,173,4,108
+1178431,2019,1,Kolkata Knight Riders,133,7,120
+1178431,2019,2,Mumbai Indians,134,1,97
+1181764,2019,1,Chennai Super Kings,131,4,120
+1181764,2019,2,Mumbai Indians,132,4,111
+1181766,2019,1,Sunrisers Hyderabad,162,8,120
+1181766,2019,2,Delhi Capitals,165,8,119
+1181767,2019,1,Delhi Capitals,147,9,120
+1181767,2019,2,Chennai Super Kings,151,4,114
+1181768,2019,1,Mumbai Indians,149,8,120
+1181768,2019,2,Chennai Super Kings,148,7,120
+1216492,2020,1,Mumbai Indians,162,9,120
+1216492,2020,2,Chennai Super Kings,166,5,116
+1216493,2020,1,Delhi Capitals,157,8,120
+1216493,2020,2,Punjab Kings,157,8,120
+1216494,2020,1,Kolkata Knight Riders,84,8,120
+1216494,2020,2,Royal Challengers Bengaluru,85,2,81
+1216495,2020,1,Mumbai Indians,149,8,120
+1216495,2020,2,Sunrisers Hyderabad,151,0,103
+1216496,2020,1,Rajasthan Royals,216,7,120
+1216496,2020,2,Chennai Super Kings,200,6,120
+1216497,2020,1,Kolkata Knight Riders,194,6,120
+1216497,2020,2,Delhi Capitals,135,9,120
+1216498,2020,1,Punjab Kings,126,7,120
+1216498,2020,2,Sunrisers Hyderabad,114,10,119
+1216499,2020,1,Royal Challengers Bengaluru,164,6,120
+1216499,2020,2,Mumbai Indians,166,5,115
+1216500,2020,1,Delhi Capitals,184,8,120
+1216500,2020,2,Rajasthan Royals,138,10,118
+1216501,2020,1,Kolkata Knight Riders,167,10,120
+1216501,2020,2,Chennai Super Kings,157,5,120
+1216502,2020,1,Royal Challengers Bengaluru,120,7,120
+1216502,2020,2,Sunrisers Hyderabad,121,5,85
+1216503,2020,1,Mumbai Indians,191,4,120
+1216503,2020,2,Punjab Kings,143,8,120
+1216504,2020,1,Kolkata Knight Riders,174,6,120
+1216504,2020,2,Rajasthan Royals,137,9,120
+1216505,2020,1,Royal Challengers Bengaluru,152,7,120
+1216505,2020,2,Delhi Capitals,154,4,114
+1216506,2020,1,Punjab Kings,153,6,120
+1216506,2020,2,Chennai Super Kings,154,1,113
+1216507,2020,1,Sunrisers Hyderabad,158,4,120
+1216507,2020,2,Rajasthan Royals,163,5,119
+1216508,2020,1,Mumbai Indians,195,5,120
+1216508,2020,2,Kolkata Knight Riders,146,9,120
+1216509,2020,1,Chennai Super Kings,179,4,120
+1216509,2020,2,Delhi Capitals,185,5,119
+1216510,2020,1,Punjab Kings,206,3,120
+1216510,2020,2,Royal Challengers Bengaluru,109,10,102
+1216511,2020,1,Mumbai Indians,193,4,120
+1216511,2020,2,Rajasthan Royals,136,10,109
+1216512,2020,1,Kolkata Knight Riders,163,5,120
+1216512,2020,2,Sunrisers Hyderabad,163,6,120
+1216513,2020,1,Punjab Kings,178,4,120
+1216513,2020,2,Chennai Super Kings,181,0,106
+1216514,2020,1,Rajasthan Royals,154,6,120
+1216514,2020,2,Royal Challengers Bengaluru,158,2,115
+1216515,2020,1,Delhi Capitals,228,4,120
+1216515,2020,2,Kolkata Knight Riders,210,8,120
+1216516,2020,1,Sunrisers Hyderabad,164,5,120
+1216516,2020,2,Chennai Super Kings,157,5,120
+1216517,2020,1,Mumbai Indians,176,6,120
+1216517,2020,2,Punjab Kings,176,6,120
+1216518,2020,1,Rajasthan Royals,154,6,120
+1216518,2020,2,Sunrisers Hyderabad,156,2,109
+1216519,2020,1,Delhi Capitals,196,4,120
+1216519,2020,2,Royal Challengers Bengaluru,137,9,120
+1216520,2020,1,Kolkata Knight Riders,149,9,120
+1216520,2020,2,Punjab Kings,150,2,113
+1216521,2020,1,Chennai Super Kings,114,9,120
+1216521,2020,2,Mumbai Indians,116,0,74
+1216522,2020,1,Rajasthan Royals,177,6,120
+1216522,2020,2,Royal Challengers Bengaluru,179,3,118
+1216523,2020,1,Kolkata Knight Riders,164,6,120
+1216523,2020,2,Punjab Kings,162,5,120
+1216524,2020,1,Sunrisers Hyderabad,219,2,120
+1216524,2020,2,Delhi Capitals,131,10,114
+1216525,2020,1,Royal Challengers Bengaluru,169,4,120
+1216525,2020,2,Chennai Super Kings,132,8,120
+1216526,2020,1,Kolkata Knight Riders,148,5,120
+1216526,2020,2,Mumbai Indians,149,2,101
+1216527,2020,1,Punjab Kings,223,2,120
+1216527,2020,2,Rajasthan Royals,226,6,117
+1216528,2020,1,Chennai Super Kings,167,6,120
+1216528,2020,2,Sunrisers Hyderabad,147,8,120
+1216529,2020,1,Delhi Capitals,162,4,120
+1216529,2020,2,Mumbai Indians,166,5,118
+1216530,2020,1,Kolkata Knight Riders,191,7,120
+1216530,2020,2,Rajasthan Royals,131,9,120
+1216531,2020,1,Royal Challengers Bengaluru,171,6,120
+1216531,2020,2,Punjab Kings,177,2,120
+1216532,2020,1,Sunrisers Hyderabad,162,4,120
+1216532,2020,2,Delhi Capitals,147,7,120
+1216533,2020,1,Chennai Super Kings,125,5,120
+1216533,2020,2,Rajasthan Royals,126,3,105
+1216534,2020,1,Royal Challengers Bengaluru,163,5,120
+1216534,2020,2,Sunrisers Hyderabad,153,10,118
+1216535,2020,1,Delhi Capitals,110,9,120
+1216535,2020,2,Mumbai Indians,111,1,86
+1216536,2020,1,Kolkata Knight Riders,172,5,120
+1216536,2020,2,Chennai Super Kings,178,4,120
+1216537,2020,1,Punjab Kings,185,4,120
+1216537,2020,2,Rajasthan Royals,186,3,105
+1216538,2020,1,Mumbai Indians,208,5,120
+1216538,2020,2,Sunrisers Hyderabad,174,7,120
+1216539,2020,1,Delhi Capitals,175,3,120
+1216539,2020,2,Chennai Super Kings,131,7,120
+1216540,2020,1,Royal Challengers Bengaluru,194,2,120
+1216540,2020,2,Kolkata Knight Riders,112,9,120
+1216541,2020,1,Mumbai Indians,195,5,120
+1216541,2020,2,Rajasthan Royals,196,2,110
+1216542,2020,1,Sunrisers Hyderabad,201,6,120
+1216542,2020,2,Punjab Kings,132,10,101
+1216543,2020,1,Delhi Capitals,161,7,120
+1216543,2020,2,Rajasthan Royals,148,8,120
+1216544,2020,1,Royal Challengers Bengaluru,145,6,120
+1216544,2020,2,Chennai Super Kings,150,2,112
+1216545,2020,1,Sunrisers Hyderabad,142,4,120
+1216545,2020,2,Kolkata Knight Riders,145,3,108
+1216546,2020,1,Delhi Capitals,164,5,120
+1216546,2020,2,Punjab Kings,167,5,114
+1216547,2020,1,Royal Challengers Bengaluru,201,3,120
+1216547,2020,2,Mumbai Indians,201,5,120
+1237177,2020,1,Mumbai Indians,200,5,120
+1237177,2020,2,Delhi Capitals,143,8,120
+1237178,2020,1,Royal Challengers Bengaluru,131,7,120
+1237178,2020,2,Sunrisers Hyderabad,132,4,118
+1237180,2020,1,Delhi Capitals,189,3,120
+1237180,2020,2,Sunrisers Hyderabad,172,8,120
+1237181,2020,1,Delhi Capitals,156,7,120
+1237181,2020,2,Mumbai Indians,157,5,112
+1254058,2021,1,Mumbai Indians,159,9,120
+1254058,2021,2,Royal Challengers Bengaluru,160,8,120
+1254059,2021,1,Chennai Super Kings,188,7,120
+1254059,2021,2,Delhi Capitals,190,3,112
+1254060,2021,1,Kolkata Knight Riders,187,6,120
+1254060,2021,2,Sunrisers Hyderabad,177,5,120
+1254061,2021,1,Punjab Kings,221,6,120
+1254061,2021,2,Rajasthan Royals,217,7,120
+1254062,2021,1,Mumbai Indians,152,10,120
+1254062,2021,2,Kolkata Knight Riders,142,7,120
+1254063,2021,1,Royal Challengers Bengaluru,149,8,120
+1254063,2021,2,Sunrisers Hyderabad,143,9,120
+1254064,2021,1,Delhi Capitals,147,8,120
+1254064,2021,2,Rajasthan Royals,150,7,118
+1254065,2021,1,Punjab Kings,106,8,120
+1254065,2021,2,Chennai Super Kings,107,4,94
+1254066,2021,1,Mumbai Indians,150,5,120
+1254066,2021,2,Sunrisers Hyderabad,137,10,118
+1254067,2021,1,Royal Challengers Bengaluru,204,4,120
+1254067,2021,2,Kolkata Knight Riders,166,8,120
+1254068,2021,1,Punjab Kings,195,4,120
+1254068,2021,2,Delhi Capitals,198,4,110
+1254069,2021,1,Chennai Super Kings,188,9,120
+1254069,2021,2,Rajasthan Royals,143,9,120
+1254070,2021,1,Mumbai Indians,137,9,120
+1254070,2021,2,Delhi Capitals,138,4,115
+1254071,2021,1,Punjab Kings,120,10,118
+1254071,2021,2,Sunrisers Hyderabad,121,1,112
+1254072,2021,1,Chennai Super Kings,220,3,120
+1254072,2021,2,Kolkata Knight Riders,202,10,115
+1254073,2021,1,Rajasthan Royals,177,9,120
+1254073,2021,2,Royal Challengers Bengaluru,181,0,99
+1254074,2021,1,Mumbai Indians,131,6,120
+1254074,2021,2,Punjab Kings,132,1,106
+1254075,2021,1,Kolkata Knight Riders,133,9,120
+1254075,2021,2,Rajasthan Royals,134,4,113
+1254076,2021,1,Chennai Super Kings,191,4,120
+1254076,2021,2,Royal Challengers Bengaluru,122,9,120
+1254077,2021,1,Delhi Capitals,159,4,120
+1254077,2021,2,Sunrisers Hyderabad,159,7,120
+1254078,2021,1,Punjab Kings,123,9,120
+1254078,2021,2,Kolkata Knight Riders,126,5,100
+1254079,2021,1,Royal Challengers Bengaluru,171,5,120
+1254079,2021,2,Delhi Capitals,170,4,120
+1254080,2021,1,Sunrisers Hyderabad,171,3,120
+1254080,2021,2,Chennai Super Kings,173,3,111
+1254081,2021,1,Rajasthan Royals,171,4,120
+1254081,2021,2,Mumbai Indians,172,3,111
+1254082,2021,1,Kolkata Knight Riders,154,6,120
+1254082,2021,2,Delhi Capitals,156,3,99
+1254083,2021,1,Punjab Kings,179,5,120
+1254083,2021,2,Royal Challengers Bengaluru,145,8,120
+1254084,2021,1,Chennai Super Kings,218,4,120
+1254084,2021,2,Mumbai Indians,219,6,120
+1254085,2021,1,Rajasthan Royals,220,3,120
+1254085,2021,2,Sunrisers Hyderabad,165,8,120
+1254086,2021,1,Punjab Kings,166,6,120
+1254086,2021,2,Delhi Capitals,167,3,106
+1254087,2021,1,Royal Challengers Bengaluru,92,10,114
+1254087,2021,2,Kolkata Knight Riders,94,1,60
+1254088,2021,1,Mumbai Indians,235,9,120
+1254088,2021,2,Sunrisers Hyderabad,193,8,120
+1254089,2021,1,Chennai Super Kings,189,4,120
+1254089,2021,2,Rajasthan Royals,190,3,105
+1254090,2021,1,Royal Challengers Bengaluru,164,7,120
+1254090,2021,2,Punjab Kings,158,6,120
+1254091,2021,1,Sunrisers Hyderabad,134,7,120
+1254091,2021,2,Chennai Super Kings,139,4,118
+1254092,2021,1,Delhi Capitals,127,9,120
+1254092,2021,2,Kolkata Knight Riders,130,7,110
+1254093,2021,1,Rajasthan Royals,90,9,120
+1254093,2021,2,Mumbai Indians,94,2,50
+1254094,2021,1,Chennai Super Kings,134,6,120
+1254094,2021,2,Punjab Kings,139,4,78
+1254095,2021,1,Sunrisers Hyderabad,141,7,120
+1254095,2021,2,Royal Challengers Bengaluru,137,6,120
+1254096,2021,1,Mumbai Indians,155,6,120
+1254096,2021,2,Kolkata Knight Riders,159,3,91
+1254097,2021,1,Delhi Capitals,154,6,120
+1254097,2021,2,Rajasthan Royals,121,6,120
+1254098,2021,1,Kolkata Knight Riders,171,6,120
+1254098,2021,2,Chennai Super Kings,172,8,120
+1254099,2021,1,Punjab Kings,135,6,120
+1254099,2021,2,Mumbai Indians,137,4,114
+1254100,2021,1,Rajasthan Royals,164,5,120
+1254100,2021,2,Sunrisers Hyderabad,167,3,111
+1254101,2021,1,Delhi Capitals,164,5,120
+1254101,2021,2,Royal Challengers Bengaluru,166,3,120
+1254102,2021,1,Kolkata Knight Riders,165,7,120
+1254102,2021,2,Punjab Kings,168,5,117
+1254103,2021,1,Rajasthan Royals,149,9,120
+1254103,2021,2,Royal Challengers Bengaluru,153,3,103
+1254104,2021,1,Chennai Super Kings,156,7,120
+1254104,2021,2,Mumbai Indians,136,8,120
+1254105,2021,1,Sunrisers Hyderabad,134,9,120
+1254105,2021,2,Delhi Capitals,139,2,107
+1254106,2021,1,Kolkata Knight Riders,171,4,120
+1254106,2021,2,Rajasthan Royals,85,10,97
+1254107,2021,1,Punjab Kings,125,7,120
+1254107,2021,2,Sunrisers Hyderabad,120,7,120
+1254108,2021,1,Royal Challengers Bengaluru,165,6,120
+1254108,2021,2,Mumbai Indians,111,10,109
+1254109,2021,1,Sunrisers Hyderabad,115,8,120
+1254109,2021,2,Kolkata Knight Riders,119,4,118
+1254110,2021,1,Chennai Super Kings,136,5,120
+1254110,2021,2,Delhi Capitals,139,7,118
+1254111,2021,1,Rajasthan Royals,185,10,120
+1254111,2021,2,Punjab Kings,183,4,120
+1254112,2021,1,Mumbai Indians,129,8,120
+1254112,2021,2,Delhi Capitals,132,6,115
+1254113,2021,1,Royal Challengers Bengaluru,156,6,120
+1254113,2021,2,Chennai Super Kings,157,4,109
+1254114,2021,1,Delhi Capitals,172,5,120
+1254114,2021,2,Chennai Super Kings,173,6,118
+1254115,2021,1,Royal Challengers Bengaluru,138,7,120
+1254115,2021,2,Kolkata Knight Riders,139,6,118
+1254116,2021,1,Delhi Capitals,135,5,120
+1254116,2021,2,Kolkata Knight Riders,136,7,119
+1254117,2021,1,Chennai Super Kings,192,3,120
+1254117,2021,2,Kolkata Knight Riders,165,9,120
+1304047,2022,1,Chennai Super Kings,131,5,120
+1304047,2022,2,Kolkata Knight Riders,133,4,111
+1304048,2022,1,Mumbai Indians,177,5,120
+1304048,2022,2,Delhi Capitals,179,6,110
+1304049,2022,1,Royal Challengers Bengaluru,205,2,120
+1304049,2022,2,Punjab Kings,208,5,114
+1304050,2022,1,Lucknow Super Giants,158,6,120
+1304050,2022,2,Gujarat Titans,161,5,118
+1304051,2022,1,Rajasthan Royals,210,6,120
+1304051,2022,2,Sunrisers Hyderabad,149,7,120
+1304052,2022,1,Kolkata Knight Riders,128,10,113
+1304052,2022,2,Royal Challengers Bengaluru,132,7,116
+1304053,2022,1,Chennai Super Kings,210,7,120
+1304053,2022,2,Lucknow Super Giants,211,4,117
+1304054,2022,1,Punjab Kings,137,10,110
+1304054,2022,2,Kolkata Knight Riders,141,4,87
+1304055,2022,1,Rajasthan Royals,193,8,120
+1304055,2022,2,Mumbai Indians,170,8,120
+1304056,2022,1,Gujarat Titans,171,6,120
+1304056,2022,2,Delhi Capitals,157,9,120
+1304057,2022,1,Punjab Kings,180,8,120
+1304057,2022,2,Chennai Super Kings,126,10,108
+1304058,2022,1,Lucknow Super Giants,169,7,120
+1304058,2022,2,Sunrisers Hyderabad,157,9,120
+1304059,2022,1,Rajasthan Royals,169,3,120
+1304059,2022,2,Royal Challengers Bengaluru,173,6,115
+1304060,2022,1,Mumbai Indians,161,4,120
+1304060,2022,2,Kolkata Knight Riders,162,5,96
+1304061,2022,1,Delhi Capitals,149,3,120
+1304061,2022,2,Lucknow Super Giants,155,4,118
+1304062,2022,1,Punjab Kings,189,9,120
+1304062,2022,2,Gujarat Titans,190,4,120
+1304063,2022,1,Chennai Super Kings,154,7,120
+1304063,2022,2,Sunrisers Hyderabad,155,2,106
+1304064,2022,1,Mumbai Indians,151,6,120
+1304064,2022,2,Royal Challengers Bengaluru,152,3,111
+1304065,2022,1,Delhi Capitals,215,5,120
+1304065,2022,2,Kolkata Knight Riders,171,10,118
+1304066,2022,1,Rajasthan Royals,165,6,120
+1304066,2022,2,Lucknow Super Giants,162,8,120
+1304067,2022,1,Gujarat Titans,162,7,120
+1304067,2022,2,Sunrisers Hyderabad,168,3,115
+1304068,2022,1,Chennai Super Kings,216,4,120
+1304068,2022,2,Royal Challengers Bengaluru,193,9,120
+1304069,2022,1,Punjab Kings,198,5,120
+1304069,2022,2,Mumbai Indians,186,9,120
+1304070,2022,1,Gujarat Titans,192,4,120
+1304070,2022,2,Rajasthan Royals,155,9,120
+1304071,2022,1,Kolkata Knight Riders,175,8,120
+1304071,2022,2,Sunrisers Hyderabad,176,3,107
+1304072,2022,1,Lucknow Super Giants,199,4,120
+1304072,2022,2,Mumbai Indians,181,9,120
+1304073,2022,1,Royal Challengers Bengaluru,189,5,120
+1304073,2022,2,Delhi Capitals,173,7,120
+1304074,2022,1,Punjab Kings,151,10,120
+1304074,2022,2,Sunrisers Hyderabad,152,3,113
+1304075,2022,1,Chennai Super Kings,169,5,120
+1304075,2022,2,Gujarat Titans,170,7,119
+1304076,2022,1,Rajasthan Royals,217,5,120
+1304076,2022,2,Kolkata Knight Riders,210,10,118
+1304077,2022,1,Royal Challengers Bengaluru,181,6,120
+1304077,2022,2,Lucknow Super Giants,163,8,120
+1304078,2022,1,Punjab Kings,115,10,120
+1304078,2022,2,Delhi Capitals,119,1,63
+1304079,2022,1,Mumbai Indians,155,7,120
+1304079,2022,2,Chennai Super Kings,156,7,120
+1304080,2022,1,Rajasthan Royals,222,2,120
+1304080,2022,2,Delhi Capitals,207,8,120
+1304081,2022,1,Gujarat Titans,156,9,120
+1304081,2022,2,Kolkata Knight Riders,148,8,120
+1304082,2022,1,Royal Challengers Bengaluru,68,10,97
+1304082,2022,2,Sunrisers Hyderabad,72,1,48
+1304083,2022,1,Lucknow Super Giants,168,6,120
+1304083,2022,2,Mumbai Indians,132,8,120
+1304084,2022,1,Punjab Kings,187,4,120
+1304084,2022,2,Chennai Super Kings,176,6,120
+1304085,2022,1,Rajasthan Royals,144,8,120
+1304085,2022,2,Royal Challengers Bengaluru,115,10,117
+1304086,2022,1,Sunrisers Hyderabad,195,6,120
+1304086,2022,2,Gujarat Titans,199,5,120
+1304087,2022,1,Kolkata Knight Riders,146,9,120
+1304087,2022,2,Delhi Capitals,150,6,114
+1304088,2022,1,Lucknow Super Giants,153,8,120
+1304088,2022,2,Punjab Kings,133,8,120
+1304089,2022,1,Royal Challengers Bengaluru,170,6,120
+1304089,2022,2,Gujarat Titans,174,4,117
+1304090,2022,1,Rajasthan Royals,158,6,120
+1304090,2022,2,Mumbai Indians,161,5,116
+1304091,2022,1,Lucknow Super Giants,195,3,120
+1304091,2022,2,Delhi Capitals,189,7,120
+1304092,2022,1,Chennai Super Kings,202,2,120
+1304092,2022,2,Sunrisers Hyderabad,189,6,120
+1304093,2022,1,Rajasthan Royals,152,5,120
+1304093,2022,2,Kolkata Knight Riders,158,3,115
+1304094,2022,1,Gujarat Titans,143,8,120
+1304094,2022,2,Punjab Kings,145,2,96
+1304095,2022,1,Royal Challengers Bengaluru,173,8,120
+1304095,2022,2,Chennai Super Kings,160,8,120
+1304096,2022,1,Delhi Capitals,207,3,120
+1304096,2022,2,Sunrisers Hyderabad,186,8,120
+1304097,2022,1,Mumbai Indians,177,6,120
+1304097,2022,2,Gujarat Titans,172,5,120
+1304098,2022,1,Punjab Kings,189,5,120
+1304098,2022,2,Rajasthan Royals,190,4,118
+1304099,2022,1,Lucknow Super Giants,176,7,120
+1304099,2022,2,Kolkata Knight Riders,101,10,87
+1304100,2022,1,Royal Challengers Bengaluru,192,3,120
+1304100,2022,2,Sunrisers Hyderabad,125,10,116
+1304101,2022,1,Chennai Super Kings,208,6,120
+1304101,2022,2,Delhi Capitals,117,10,106
+1304102,2022,1,Kolkata Knight Riders,165,9,120
+1304102,2022,2,Mumbai Indians,113,10,105
+1304103,2022,1,Gujarat Titans,144,4,120
+1304103,2022,2,Lucknow Super Giants,82,10,83
+1304104,2022,1,Rajasthan Royals,160,6,120
+1304104,2022,2,Delhi Capitals,161,2,109
+1304105,2022,1,Chennai Super Kings,97,10,96
+1304105,2022,2,Mumbai Indians,103,5,89
+1304106,2022,1,Punjab Kings,209,9,120
+1304106,2022,2,Royal Challengers Bengaluru,155,9,120
+1304107,2022,1,Kolkata Knight Riders,177,6,120
+1304107,2022,2,Sunrisers Hyderabad,123,8,120
+1304108,2022,1,Chennai Super Kings,133,5,120
+1304108,2022,2,Gujarat Titans,137,3,115
+1304109,2022,1,Rajasthan Royals,178,6,120
+1304109,2022,2,Lucknow Super Giants,154,8,120
+1304110,2022,1,Delhi Capitals,159,7,120
+1304110,2022,2,Punjab Kings,142,9,120
+1304111,2022,1,Sunrisers Hyderabad,193,6,120
+1304111,2022,2,Mumbai Indians,190,7,120
+1304112,2022,1,Lucknow Super Giants,210,0,120
+1304112,2022,2,Kolkata Knight Riders,208,8,120
+1304113,2022,1,Gujarat Titans,168,5,120
+1304113,2022,2,Royal Challengers Bengaluru,170,2,112
+1304114,2022,1,Chennai Super Kings,150,6,120
+1304114,2022,2,Rajasthan Royals,151,5,118
+1304115,2022,1,Delhi Capitals,159,7,120
+1304115,2022,2,Mumbai Indians,160,5,115
+1304116,2022,1,Sunrisers Hyderabad,157,8,120
+1304116,2022,2,Punjab Kings,160,5,91
+1312197,2022,1,Rajasthan Royals,188,6,120
+1312197,2022,2,Gujarat Titans,191,3,117
+1312198,2022,1,Royal Challengers Bengaluru,207,4,120
+1312198,2022,2,Lucknow Super Giants,193,6,120
+1312199,2022,1,Royal Challengers Bengaluru,157,8,120
+1312199,2022,2,Rajasthan Royals,161,3,109
+1312200,2022,1,Rajasthan Royals,130,9,120
+1312200,2022,2,Gujarat Titans,133,3,109
+1359475,2023,1,Chennai Super Kings,178,7,120
+1359475,2023,2,Gujarat Titans,182,5,116
+1359476,2023,1,Punjab Kings,191,5,120
+1359476,2023,2,Kolkata Knight Riders,146,7,96
+1359477,2023,1,Lucknow Super Giants,193,6,120
+1359477,2023,2,Delhi Capitals,143,9,120
+1359478,2023,1,Rajasthan Royals,203,5,120
+1359478,2023,2,Sunrisers Hyderabad,131,8,120
+1359479,2023,1,Mumbai Indians,171,7,120
+1359479,2023,2,Royal Challengers Bengaluru,172,2,98
+1359480,2023,1,Chennai Super Kings,217,7,120
+1359480,2023,2,Lucknow Super Giants,205,7,120
+1359481,2023,1,Delhi Capitals,162,8,120
+1359481,2023,2,Gujarat Titans,163,4,109
+1359482,2023,1,Punjab Kings,197,5,120
+1359482,2023,2,Rajasthan Royals,192,7,120
+1359483,2023,1,Kolkata Knight Riders,204,7,120
+1359483,2023,2,Royal Challengers Bengaluru,123,10,106
+1359484,2023,1,Sunrisers Hyderabad,121,8,120
+1359484,2023,2,Lucknow Super Giants,127,5,96
+1359485,2023,1,Rajasthan Royals,199,4,120
+1359485,2023,2,Delhi Capitals,142,9,120
+1359486,2023,1,Mumbai Indians,157,8,120
+1359486,2023,2,Chennai Super Kings,159,3,109
+1359487,2023,1,Gujarat Titans,204,4,120
+1359487,2023,2,Kolkata Knight Riders,207,7,120
+1359488,2023,1,Punjab Kings,143,9,120
+1359488,2023,2,Sunrisers Hyderabad,145,2,103
+1359489,2023,1,Royal Challengers Bengaluru,212,2,120
+1359489,2023,2,Lucknow Super Giants,213,9,120
+1359490,2023,1,Delhi Capitals,172,10,118
+1359490,2023,2,Mumbai Indians,173,4,120
+1359491,2023,1,Rajasthan Royals,175,8,120
+1359491,2023,2,Chennai Super Kings,172,6,120
+1359492,2023,1,Punjab Kings,153,8,120
+1359492,2023,2,Gujarat Titans,154,4,119
+1359493,2023,1,Sunrisers Hyderabad,228,4,120
+1359493,2023,2,Kolkata Knight Riders,205,7,120
+1359494,2023,1,Royal Challengers Bengaluru,174,6,120
+1359494,2023,2,Delhi Capitals,151,9,120
+1359495,2023,1,Lucknow Super Giants,159,8,120
+1359495,2023,2,Punjab Kings,161,8,117
+1359496,2023,1,Kolkata Knight Riders,185,6,120
+1359496,2023,2,Mumbai Indians,186,5,106
+1359497,2023,1,Gujarat Titans,177,7,120
+1359497,2023,2,Rajasthan Royals,179,7,116
+1359498,2023,1,Chennai Super Kings,226,6,120
+1359498,2023,2,Royal Challengers Bengaluru,218,8,120
+1359499,2023,1,Mumbai Indians,192,5,120
+1359499,2023,2,Sunrisers Hyderabad,178,10,119
+1359500,2023,1,Lucknow Super Giants,154,7,120
+1359500,2023,2,Rajasthan Royals,144,6,120
+1359501,2023,1,Royal Challengers Bengaluru,174,4,120
+1359501,2023,2,Punjab Kings,150,10,110
+1359502,2023,1,Kolkata Knight Riders,127,10,120
+1359502,2023,2,Delhi Capitals,128,6,116
+1359503,2023,1,Sunrisers Hyderabad,134,7,120
+1359503,2023,2,Chennai Super Kings,138,3,112
+1359504,2023,1,Gujarat Titans,135,6,120
+1359504,2023,2,Lucknow Super Giants,128,7,120
+1359505,2023,1,Punjab Kings,214,8,120
+1359505,2023,2,Mumbai Indians,201,6,120
+1359506,2023,1,Royal Challengers Bengaluru,189,9,120
+1359506,2023,2,Rajasthan Royals,182,6,120
+1359507,2023,1,Chennai Super Kings,235,4,120
+1359507,2023,2,Kolkata Knight Riders,186,8,120
+1359508,2023,1,Delhi Capitals,144,9,120
+1359508,2023,2,Sunrisers Hyderabad,137,6,120
+1359509,2023,1,Gujarat Titans,207,6,120
+1359509,2023,2,Mumbai Indians,152,9,120
+1359510,2023,1,Kolkata Knight Riders,200,5,120
+1359510,2023,2,Royal Challengers Bengaluru,179,8,120
+1359511,2023,1,Rajasthan Royals,202,5,120
+1359511,2023,2,Chennai Super Kings,170,6,120
+1359512,2023,1,Lucknow Super Giants,257,5,120
+1359512,2023,2,Punjab Kings,201,10,119
+1359513,2023,1,Kolkata Knight Riders,179,7,120
+1359513,2023,2,Gujarat Titans,180,3,107
+1359514,2023,1,Sunrisers Hyderabad,197,6,120
+1359514,2023,2,Delhi Capitals,188,6,120
+1359515,2023,1,Chennai Super Kings,200,4,120
+1359515,2023,2,Punjab Kings,201,6,120
+1359516,2023,1,Rajasthan Royals,212,7,120
+1359516,2023,2,Mumbai Indians,214,4,117
+1359517,2023,1,Royal Challengers Bengaluru,126,9,120
+1359517,2023,2,Lucknow Super Giants,108,10,119
+1359518,2023,1,Delhi Capitals,130,8,120
+1359518,2023,2,Gujarat Titans,125,6,120
+1359519,2023,1,Lucknow Super Giants,125,7,116
+1359520,2023,1,Punjab Kings,214,3,120
+1359520,2023,2,Mumbai Indians,216,4,113
+1359521,2023,1,Kolkata Knight Riders,171,9,120
+1359521,2023,2,Sunrisers Hyderabad,166,8,120
+1359522,2023,1,Rajasthan Royals,118,10,107
+1359522,2023,2,Gujarat Titans,119,1,83
+1359523,2023,1,Mumbai Indians,139,8,120
+1359523,2023,2,Chennai Super Kings,140,4,106
+1359524,2023,1,Royal Challengers Bengaluru,181,4,120
+1359524,2023,2,Delhi Capitals,187,3,100
+1359525,2023,1,Gujarat Titans,227,2,120
+1359525,2023,2,Lucknow Super Giants,171,7,120
+1359526,2023,1,Rajasthan Royals,214,2,120
+1359526,2023,2,Sunrisers Hyderabad,217,6,120
+1359527,2023,1,Punjab Kings,179,7,120
+1359527,2023,2,Kolkata Knight Riders,182,5,120
+1359528,2023,1,Royal Challengers Bengaluru,199,6,120
+1359528,2023,2,Mumbai Indians,200,4,99
+1359529,2023,1,Chennai Super Kings,167,8,120
+1359529,2023,2,Delhi Capitals,140,8,120
+1359530,2023,1,Kolkata Knight Riders,149,8,120
+1359530,2023,2,Rajasthan Royals,151,1,79
+1359531,2023,1,Mumbai Indians,218,5,120
+1359531,2023,2,Gujarat Titans,191,8,120
+1359532,2023,1,Sunrisers Hyderabad,182,6,120
+1359532,2023,2,Lucknow Super Giants,185,3,116
+1359533,2023,1,Punjab Kings,167,7,120
+1359533,2023,2,Delhi Capitals,136,8,120
+1359534,2023,1,Royal Challengers Bengaluru,171,5,120
+1359534,2023,2,Rajasthan Royals,59,10,63
+1359535,2023,1,Chennai Super Kings,144,6,120
+1359535,2023,2,Kolkata Knight Riders,147,4,111
+1359536,2023,1,Gujarat Titans,188,9,120
+1359536,2023,2,Sunrisers Hyderabad,154,9,120
+1359537,2023,1,Lucknow Super Giants,177,4,120
+1359537,2023,2,Mumbai Indians,172,5,120
+1359538,2023,1,Delhi Capitals,213,2,120
+1359538,2023,2,Punjab Kings,198,8,120
+1359539,2023,1,Sunrisers Hyderabad,186,5,120
+1359539,2023,2,Royal Challengers Bengaluru,187,2,116
+1359540,2023,1,Punjab Kings,187,5,120
+1359540,2023,2,Rajasthan Royals,189,6,118
+1359541,2023,1,Chennai Super Kings,223,3,120
+1359541,2023,2,Delhi Capitals,146,9,120
+1359542,2023,1,Lucknow Super Giants,176,8,120
+1359542,2023,2,Kolkata Knight Riders,175,7,120
+1359543,2023,1,Sunrisers Hyderabad,200,5,120
+1359543,2023,2,Mumbai Indians,201,2,108
+1359544,2023,1,Royal Challengers Bengaluru,197,5,120
+1359544,2023,2,Gujarat Titans,198,4,115
+1370350,2023,1,Chennai Super Kings,172,7,120
+1370350,2023,2,Gujarat Titans,157,10,120
+1370351,2023,1,Mumbai Indians,182,8,120
+1370351,2023,2,Lucknow Super Giants,101,10,99
+1370352,2023,1,Gujarat Titans,233,3,120
+1370352,2023,2,Mumbai Indians,171,10,110
+1370353,2023,1,Gujarat Titans,214,4,120
+1370353,2023,2,Chennai Super Kings,171,5,90
+1422119,2024,1,Royal Challengers Bengaluru,173,6,120
+1422119,2024,2,Chennai Super Kings,176,4,112
+1422120,2024,1,Delhi Capitals,174,9,120
+1422120,2024,2,Punjab Kings,177,6,116
+1422121,2024,1,Kolkata Knight Riders,208,7,120
+1422121,2024,2,Sunrisers Hyderabad,204,7,120
+1422122,2024,1,Rajasthan Royals,193,4,120
+1422122,2024,2,Lucknow Super Giants,173,6,120
+1422123,2024,1,Gujarat Titans,168,6,120
+1422123,2024,2,Mumbai Indians,162,9,120
+1422124,2024,1,Punjab Kings,176,6,120
+1422124,2024,2,Royal Challengers Bengaluru,178,6,116
+1422125,2024,1,Chennai Super Kings,206,6,120
+1422125,2024,2,Gujarat Titans,143,8,120
+1422126,2024,1,Sunrisers Hyderabad,277,3,120
+1422126,2024,2,Mumbai Indians,246,5,120
+1422127,2024,1,Rajasthan Royals,185,5,120
+1422127,2024,2,Delhi Capitals,173,5,120
+1422128,2024,1,Royal Challengers Bengaluru,182,6,120
+1422128,2024,2,Kolkata Knight Riders,186,3,101
+1422129,2024,1,Lucknow Super Giants,199,8,120
+1422129,2024,2,Punjab Kings,178,5,120
+1422130,2024,1,Sunrisers Hyderabad,162,8,120
+1422130,2024,2,Gujarat Titans,168,3,115
+1422131,2024,1,Delhi Capitals,191,5,120
+1422131,2024,2,Chennai Super Kings,171,6,120
+1422132,2024,1,Mumbai Indians,125,9,120
+1422132,2024,2,Rajasthan Royals,127,4,93
+1422133,2024,1,Lucknow Super Giants,181,5,120
+1422133,2024,2,Royal Challengers Bengaluru,153,10,118
+1422134,2024,1,Kolkata Knight Riders,272,7,120
+1422134,2024,2,Delhi Capitals,166,10,104
+1422135,2024,1,Gujarat Titans,199,4,120
+1422135,2024,2,Punjab Kings,200,7,119
+1422136,2024,1,Chennai Super Kings,165,5,120
+1422136,2024,2,Sunrisers Hyderabad,166,4,109
+1422137,2024,1,Royal Challengers Bengaluru,183,3,120
+1422137,2024,2,Rajasthan Royals,189,4,115
+1422138,2024,1,Mumbai Indians,234,5,120
+1422138,2024,2,Delhi Capitals,205,8,120
+1422139,2024,1,Lucknow Super Giants,163,5,120
+1422139,2024,2,Gujarat Titans,130,10,113
+1426260,2024,1,Kolkata Knight Riders,137,9,120
+1426260,2024,2,Chennai Super Kings,141,3,106
+1426261,2024,1,Sunrisers Hyderabad,182,9,120
+1426261,2024,2,Punjab Kings,180,6,120
+1426262,2024,1,Rajasthan Royals,196,3,120
+1426262,2024,2,Gujarat Titans,199,7,120
+1426263,2024,1,Royal Challengers Bengaluru,196,8,120
+1426263,2024,2,Mumbai Indians,199,3,93
+1426264,2024,1,Lucknow Super Giants,167,7,120
+1426264,2024,2,Delhi Capitals,170,4,109
+1426265,2024,1,Punjab Kings,147,8,120
+1426265,2024,2,Rajasthan Royals,152,7,119
+1426266,2024,1,Lucknow Super Giants,161,7,120
+1426266,2024,2,Kolkata Knight Riders,162,2,94
+1426267,2024,1,Chennai Super Kings,206,4,120
+1426267,2024,2,Mumbai Indians,186,6,120
+1426268,2024,1,Sunrisers Hyderabad,287,3,120
+1426268,2024,2,Royal Challengers Bengaluru,262,7,120
+1426269,2024,1,Kolkata Knight Riders,223,6,120
+1426269,2024,2,Rajasthan Royals,224,8,120
+1426270,2024,1,Gujarat Titans,89,10,105
+1426270,2024,2,Delhi Capitals,92,4,53
+1426271,2024,1,Mumbai Indians,192,7,120
+1426271,2024,2,Punjab Kings,183,10,115
+1426272,2024,1,Chennai Super Kings,176,6,120
+1426272,2024,2,Lucknow Super Giants,180,2,114
+1426273,2024,1,Sunrisers Hyderabad,266,7,120
+1426273,2024,2,Delhi Capitals,199,10,115
+1426274,2024,1,Kolkata Knight Riders,222,6,120
+1426274,2024,2,Royal Challengers Bengaluru,221,10,120
+1426275,2024,1,Punjab Kings,142,10,120
+1426275,2024,2,Gujarat Titans,146,7,115
+1426276,2024,1,Mumbai Indians,179,9,120
+1426276,2024,2,Rajasthan Royals,183,1,112
+1426277,2024,1,Chennai Super Kings,210,4,120
+1426277,2024,2,Lucknow Super Giants,213,4,117
+1426278,2024,1,Delhi Capitals,224,4,120
+1426278,2024,2,Gujarat Titans,220,8,120
+1426279,2024,1,Royal Challengers Bengaluru,206,7,120
+1426279,2024,2,Sunrisers Hyderabad,171,8,120
+1426280,2024,1,Kolkata Knight Riders,261,6,120
+1426280,2024,2,Punjab Kings,262,2,112
+1426281,2024,1,Delhi Capitals,257,4,120
+1426281,2024,2,Mumbai Indians,247,9,120
+1426282,2024,1,Lucknow Super Giants,196,5,120
+1426282,2024,2,Rajasthan Royals,199,3,114
+1426283,2024,1,Gujarat Titans,200,3,120
+1426283,2024,2,Royal Challengers Bengaluru,206,1,96
+1426284,2024,1,Chennai Super Kings,212,3,120
+1426284,2024,2,Sunrisers Hyderabad,134,10,113
+1426285,2024,1,Delhi Capitals,153,9,120
+1426285,2024,2,Kolkata Knight Riders,157,3,99
+1426286,2024,1,Mumbai Indians,144,7,120
+1426286,2024,2,Lucknow Super Giants,145,6,116
+1426287,2024,1,Chennai Super Kings,162,7,120
+1426287,2024,2,Punjab Kings,163,3,107
+1426288,2024,1,Sunrisers Hyderabad,201,3,120
+1426288,2024,2,Rajasthan Royals,200,7,120
+1426289,2024,1,Kolkata Knight Riders,169,10,119
+1426289,2024,2,Mumbai Indians,145,10,113
+1426290,2024,1,Gujarat Titans,147,10,117
+1426290,2024,2,Royal Challengers Bengaluru,152,6,82
+1426291,2024,1,Chennai Super Kings,167,9,120
+1426291,2024,2,Punjab Kings,139,9,120
+1426292,2024,1,Kolkata Knight Riders,235,6,120
+1426292,2024,2,Lucknow Super Giants,137,10,97
+1426293,2024,1,Sunrisers Hyderabad,173,8,120
+1426293,2024,2,Mumbai Indians,174,3,104
+1426294,2024,1,Delhi Capitals,221,8,120
+1426294,2024,2,Rajasthan Royals,201,8,120
+1426295,2024,1,Lucknow Super Giants,165,4,120
+1426295,2024,2,Sunrisers Hyderabad,167,0,58
+1426296,2024,1,Royal Challengers Bengaluru,241,7,120
+1426296,2024,2,Punjab Kings,181,10,102
+1426297,2024,1,Gujarat Titans,231,3,120
+1426297,2024,2,Chennai Super Kings,196,8,120
+1426298,2024,1,Kolkata Knight Riders,157,7,96
+1426298,2024,2,Mumbai Indians,139,8,96
+1426299,2024,1,Rajasthan Royals,141,5,120
+1426299,2024,2,Chennai Super Kings,145,5,110
+1426300,2024,1,Royal Challengers Bengaluru,187,9,120
+1426300,2024,2,Delhi Capitals,140,10,115
+1426302,2024,1,Delhi Capitals,208,4,120
+1426302,2024,2,Lucknow Super Giants,189,9,120
+1426303,2024,1,Rajasthan Royals,144,9,120
+1426303,2024,2,Punjab Kings,145,5,113
+1426305,2024,1,Lucknow Super Giants,214,6,120
+1426305,2024,2,Mumbai Indians,196,6,120
+1426306,2024,1,Royal Challengers Bengaluru,218,5,120
+1426306,2024,2,Chennai Super Kings,191,7,120
+1426307,2024,1,Punjab Kings,214,5,120
+1426307,2024,2,Sunrisers Hyderabad,215,6,115
+1426309,2024,1,Sunrisers Hyderabad,159,10,117
+1426309,2024,2,Kolkata Knight Riders,164,2,82
+1426310,2024,1,Royal Challengers Bengaluru,172,8,120
+1426310,2024,2,Rajasthan Royals,174,6,114
+1426311,2024,1,Sunrisers Hyderabad,175,9,120
+1426311,2024,2,Rajasthan Royals,139,7,120
+1426312,2024,1,Sunrisers Hyderabad,113,10,111
+1426312,2024,2,Kolkata Knight Riders,114,2,63
+1473438,2025,1,Kolkata Knight Riders,174,8,120
+1473438,2025,2,Royal Challengers Bengaluru,177,3,98
+1473439,2025,1,Sunrisers Hyderabad,286,6,120
+1473439,2025,2,Rajasthan Royals,242,6,120
+1473440,2025,1,Mumbai Indians,155,9,120
+1473440,2025,2,Chennai Super Kings,158,6,115
+1473441,2025,1,Lucknow Super Giants,209,8,120
+1473441,2025,2,Delhi Capitals,211,9,117
+1473442,2025,1,Punjab Kings,243,5,120
+1473442,2025,2,Gujarat Titans,232,5,120
+1473443,2025,1,Rajasthan Royals,151,9,120
+1473443,2025,2,Kolkata Knight Riders,153,2,105
+1473444,2025,1,Sunrisers Hyderabad,190,9,120
+1473444,2025,2,Lucknow Super Giants,193,5,97
+1473445,2025,1,Royal Challengers Bengaluru,196,7,120
+1473445,2025,2,Chennai Super Kings,146,8,120
+1473446,2025,1,Gujarat Titans,196,8,120
+1473446,2025,2,Mumbai Indians,160,6,120
+1473447,2025,1,Sunrisers Hyderabad,163,10,112
+1473447,2025,2,Delhi Capitals,166,3,96
+1473448,2025,1,Rajasthan Royals,182,9,120
+1473448,2025,2,Chennai Super Kings,176,6,120
+1473449,2025,1,Kolkata Knight Riders,116,10,98
+1473449,2025,2,Mumbai Indians,121,2,77
+1473450,2025,1,Lucknow Super Giants,171,7,120
+1473450,2025,2,Punjab Kings,177,2,98
+1473451,2025,1,Royal Challengers Bengaluru,169,8,120
+1473451,2025,2,Gujarat Titans,170,2,107
+1473452,2025,1,Kolkata Knight Riders,200,6,120
+1473452,2025,2,Sunrisers Hyderabad,120,10,100
+1473453,2025,1,Lucknow Super Giants,203,8,120
+1473453,2025,2,Mumbai Indians,191,5,120
+1473454,2025,1,Delhi Capitals,183,6,120
+1473454,2025,2,Chennai Super Kings,158,5,120
+1473455,2025,1,Rajasthan Royals,205,4,120
+1473455,2025,2,Punjab Kings,155,9,120
+1473456,2025,1,Lucknow Super Giants,238,3,120
+1473456,2025,2,Kolkata Knight Riders,234,7,120
+1473457,2025,1,Sunrisers Hyderabad,152,8,120
+1473457,2025,2,Gujarat Titans,153,3,100
+1473458,2025,1,Royal Challengers Bengaluru,221,5,120
+1473458,2025,2,Mumbai Indians,209,9,120
+1473459,2025,1,Punjab Kings,219,6,120
+1473459,2025,2,Chennai Super Kings,201,5,120
+1473460,2025,1,Gujarat Titans,217,6,120
+1473460,2025,2,Rajasthan Royals,159,10,116
+1473461,2025,1,Royal Challengers Bengaluru,163,7,120
+1473461,2025,2,Delhi Capitals,169,4,107
+1473462,2025,1,Chennai Super Kings,103,9,120
+1473462,2025,2,Kolkata Knight Riders,107,2,61
+1473463,2025,1,Gujarat Titans,180,6,120
+1473463,2025,2,Lucknow Super Giants,186,4,117
+1473464,2025,1,Punjab Kings,245,6,120
+1473464,2025,2,Sunrisers Hyderabad,247,2,111
+1473465,2025,1,Rajasthan Royals,173,4,120
+1473465,2025,2,Royal Challengers Bengaluru,175,1,105
+1473466,2025,1,Mumbai Indians,205,5,120
+1473466,2025,2,Delhi Capitals,193,10,114
+1473467,2025,1,Lucknow Super Giants,166,7,120
+1473467,2025,2,Chennai Super Kings,168,5,117
+1473468,2025,1,Punjab Kings,111,10,93
+1473468,2025,2,Kolkata Knight Riders,95,10,91
+1473469,2025,1,Delhi Capitals,188,5,120
+1473469,2025,2,Rajasthan Royals,188,5,120
+1473470,2025,1,Sunrisers Hyderabad,162,5,120
+1473470,2025,2,Mumbai Indians,166,6,109
+1473471,2025,1,Royal Challengers Bengaluru,95,9,84
+1473471,2025,2,Punjab Kings,98,5,73
+1473472,2025,1,Delhi Capitals,203,8,120
+1473472,2025,2,Gujarat Titans,204,3,116
+1473473,2025,1,Lucknow Super Giants,180,5,120
+1473473,2025,2,Rajasthan Royals,178,5,120
+1473474,2025,1,Punjab Kings,157,6,120
+1473474,2025,2,Royal Challengers Bengaluru,159,3,113
+1473475,2025,1,Chennai Super Kings,176,5,120
+1473475,2025,2,Mumbai Indians,177,1,94
+1473476,2025,1,Gujarat Titans,198,3,120
+1473476,2025,2,Kolkata Knight Riders,159,8,120
+1473477,2025,1,Lucknow Super Giants,159,6,120
+1473477,2025,2,Delhi Capitals,161,2,107
+1473478,2025,1,Sunrisers Hyderabad,143,8,120
+1473478,2025,2,Mumbai Indians,146,3,94
+1473479,2025,1,Royal Challengers Bengaluru,205,5,120
+1473479,2025,2,Rajasthan Royals,194,9,120
+1473480,2025,1,Chennai Super Kings,154,10,119
+1473480,2025,2,Sunrisers Hyderabad,155,5,112
+1473481,2025,1,Punjab Kings,201,4,120
+1473481,2025,2,Kolkata Knight Riders,7,0,6
+1473482,2025,1,Mumbai Indians,215,7,120
+1473482,2025,2,Lucknow Super Giants,161,10,120
+1473483,2025,1,Delhi Capitals,162,8,120
+1473483,2025,2,Royal Challengers Bengaluru,165,4,111
+1473484,2025,1,Gujarat Titans,209,4,120
+1473484,2025,2,Rajasthan Royals,212,2,95
+1473485,2025,1,Kolkata Knight Riders,204,9,120
+1473485,2025,2,Delhi Capitals,190,9,120
+1473486,2025,1,Chennai Super Kings,190,10,116
+1473486,2025,2,Punjab Kings,194,6,118
+1473487,2025,1,Mumbai Indians,217,2,120
+1473487,2025,2,Rajasthan Royals,117,10,97
+1473488,2025,1,Gujarat Titans,224,6,120
+1473488,2025,2,Sunrisers Hyderabad,186,6,120
+1473489,2025,1,Royal Challengers Bengaluru,213,5,120
+1473489,2025,2,Chennai Super Kings,211,5,120
+1473490,2025,1,Kolkata Knight Riders,206,4,120
+1473490,2025,2,Rajasthan Royals,205,8,120
+1473491,2025,1,Punjab Kings,236,5,120
+1473491,2025,2,Lucknow Super Giants,199,7,120
+1473492,2025,1,Delhi Capitals,133,7,120
+1473493,2025,1,Mumbai Indians,155,8,120
+1473493,2025,2,Gujarat Titans,147,7,114
+1473494,2025,1,Kolkata Knight Riders,179,6,120
+1473494,2025,2,Chennai Super Kings,183,8,118
+1473495,2025,1,Punjab Kings,122,1,61
+1473497,2025,1,Punjab Kings,219,5,120
+1473497,2025,2,Rajasthan Royals,209,7,120
+1473498,2025,1,Delhi Capitals,199,3,120
+1473498,2025,2,Gujarat Titans,205,0,114
+1473499,2025,1,Lucknow Super Giants,205,7,120
+1473499,2025,2,Sunrisers Hyderabad,206,5,110
+1473500,2025,1,Chennai Super Kings,187,8,120
+1473500,2025,2,Rajasthan Royals,188,4,103
+1473501,2025,1,Mumbai Indians,180,5,120
+1473501,2025,2,Delhi Capitals,121,10,110
+1473502,2025,1,Lucknow Super Giants,235,2,120
+1473502,2025,2,Gujarat Titans,202,9,120
+1473503,2025,1,Sunrisers Hyderabad,231,6,120
+1473503,2025,2,Royal Challengers Bengaluru,189,10,119
+1473504,2025,1,Chennai Super Kings,230,5,120
+1473504,2025,2,Gujarat Titans,147,10,111
+1473505,2025,1,Sunrisers Hyderabad,278,3,120
+1473505,2025,2,Kolkata Knight Riders,168,10,112
+1473506,2025,1,Mumbai Indians,184,7,120
+1473506,2025,2,Punjab Kings,187,3,111
+1473507,2025,1,Lucknow Super Giants,227,3,120
+1473507,2025,2,Royal Challengers Bengaluru,230,4,112
+1473508,2025,1,Punjab Kings,101,10,85
+1473508,2025,2,Royal Challengers Bengaluru,106,2,60
+1473509,2025,1,Mumbai Indians,228,5,120
+1473509,2025,2,Gujarat Titans,208,6,120
+1473510,2025,1,Mumbai Indians,203,6,120
+1473510,2025,2,Punjab Kings,207,5,114
+1473511,2025,1,Royal Challengers Bengaluru,190,9,120
+1473511,2025,2,Punjab Kings,184,7,120
+1485779,2025,1,Punjab Kings,206,8,120
+1485779,2025,2,Delhi Capitals,208,4,117
+1527674,2026,1,Sunrisers Hyderabad,201,9,120
+1527674,2026,2,Royal Challengers Bengaluru,203,4,94
+1527675,2026,1,Kolkata Knight Riders,220,4,120
+1527675,2026,2,Mumbai Indians,224,4,115
+1527676,2026,1,Chennai Super Kings,127,10,118
+1527676,2026,2,Rajasthan Royals,128,2,73
+1527677,2026,1,Gujarat Titans,162,6,120
+1527677,2026,2,Punjab Kings,165,7,115
+1527678,2026,1,Lucknow Super Giants,141,10,112
+1527678,2026,2,Delhi Capitals,145,4,103
+1527679,2026,1,Sunrisers Hyderabad,226,8,120
+1527679,2026,2,Kolkata Knight Riders,161,10,96
+1527680,2026,1,Chennai Super Kings,209,5,120
+1527680,2026,2,Punjab Kings,210,5,112
+1527681,2026,1,Mumbai Indians,162,6,120
+1527681,2026,2,Delhi Capitals,164,4,109
+1527682,2026,1,Rajasthan Royals,210,6,120
+1527682,2026,2,Gujarat Titans,204,8,120
+1527683,2026,1,Sunrisers Hyderabad,156,9,120
+1527683,2026,2,Lucknow Super Giants,160,5,119
+1527684,2026,1,Royal Challengers Bengaluru,250,3,120
+1527684,2026,2,Chennai Super Kings,207,10,118
+1527685,2026,1,Kolkata Knight Riders,25,2,22
+1527686,2026,1,Rajasthan Royals,150,3,66
+1527686,2026,2,Mumbai Indians,123,9,66
+1527687,2026,1,Gujarat Titans,210,4,120
+1527687,2026,2,Delhi Capitals,209,8,120
+1527688,2026,1,Kolkata Knight Riders,181,4,120
+1527688,2026,2,Lucknow Super Giants,182,7,120
+1527689,2026,1,Royal Challengers Bengaluru,201,8,120
+1527689,2026,2,Rajasthan Royals,202,4,108
+1527690,2026,1,Sunrisers Hyderabad,219,6,120
+1527690,2026,2,Punjab Kings,223,4,113
+1527691,2026,1,Chennai Super Kings,212,2,120
+1527691,2026,2,Delhi Capitals,189,10,120
+1527692,2026,1,Lucknow Super Giants,164,8,120
+1527692,2026,2,Gujarat Titans,165,3,112
+1527693,2026,1,Royal Challengers Bengaluru,240,4,120
+1527693,2026,2,Mumbai Indians,222,6,120
+1529264,2026,1,Sunrisers Hyderabad,216,6,120
+1529264,2026,2,Rajasthan Royals,159,10,114
+1529265,2026,1,Chennai Super Kings,192,5,120
+1529265,2026,2,Kolkata Knight Riders,160,7,120
+1529266,2026,1,Lucknow Super Giants,146,10,120
+1529266,2026,2,Royal Challengers Bengaluru,149,5,91
+1529267,2026,1,Mumbai Indians,195,6,120
+1529267,2026,2,Punjab Kings,198,3,99
+1529268,2026,1,Kolkata Knight Riders,180,10,120
+1529268,2026,2,Gujarat Titans,181,5,118
+1529269,2026,1,Royal Challengers Bengaluru,175,8,120
+1529269,2026,2,Delhi Capitals,179,5,119
+1529270,2026,1,Sunrisers Hyderabad,194,9,120
+1529270,2026,2,Chennai Super Kings,184,8,120
+1529271,2026,1,Rajasthan Royals,155,9,120
+1529271,2026,2,Kolkata Knight Riders,161,6,118
+1529272,2026,1,Punjab Kings,254,7,120
+1529272,2026,2,Lucknow Super Giants,200,5,120
+1529273,2026,1,Mumbai Indians,199,5,120
+1529273,2026,2,Gujarat Titans,100,10,95
+1529274,2026,1,Sunrisers Hyderabad,242,2,120
+1529274,2026,2,Delhi Capitals,195,9,120
+1529275,2026,1,Rajasthan Royals,159,6,120
+1529275,2026,2,Lucknow Super Giants,119,10,108
+1529276,2026,1,Chennai Super Kings,207,6,120
+1529276,2026,2,Mumbai Indians,104,10,114
+1529277,2026,1,Gujarat Titans,205,3,120
+1529277,2026,2,Royal Challengers Bengaluru,206,5,113
+1529278,2026,1,Delhi Capitals,264,2,120
+1529278,2026,2,Punjab Kings,265,4,113
+1529279,2026,1,Rajasthan Royals,228,6,120
+1529279,2026,2,Sunrisers Hyderabad,229,5,111
+1529280,2026,1,Chennai Super Kings,158,7,120
+1529280,2026,2,Gujarat Titans,162,2,100
+1529281,2026,1,Kolkata Knight Riders,155,7,120
+1529281,2026,2,Lucknow Super Giants,155,8,120
+1529282,2026,1,Delhi Capitals,75,10,99
+1529282,2026,2,Royal Challengers Bengaluru,77,1,39
+1529283,2026,1,Punjab Kings,222,4,120
+1529283,2026,2,Rajasthan Royals,228,4,116
+1529284,2026,1,Mumbai Indians,243,5,120
+1529284,2026,2,Sunrisers Hyderabad,249,4,112
+1529285,2026,1,Royal Challengers Bengaluru,155,10,116
+1529285,2026,2,Gujarat Titans,158,6,95
+1529286,2026,1,Rajasthan Royals,225,6,120
+1529286,2026,2,Delhi Capitals,226,3,115
